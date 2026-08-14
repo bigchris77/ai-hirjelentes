@@ -1,0 +1,68 @@
+# =====================================================================
+#  HÍRFORRÁSOK
+#  Itt állíthatod be, honnan gyűjtsön a rendszer. Minden forrás egy sor.
+#  Új forrás felvétele: másolj le egy blokkot, és írd át a 3 mezőt.
+#    name  = ahogy a felületen megjelenik
+#    url   = a forrás RSS-címe
+#    hint  = kategória-tipp, ha az AI bizonytalan
+#            (modell / termek / szabalyozas / howto)
+#  Egy forrás kikapcsolása: tegyél elé "# " jelet a sor elejére.
+#  Ha egy feed nem elérhető, a rendszer kihagyja és naplózza — nem áll le.
+# =====================================================================
+
+sources:
+  # ---- Nagy nemzetközi tech-lapok ----
+  - name: "The Verge · AI"
+    url: "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"
+    hint: "termek"
+  - name: "TechCrunch · AI"
+    url: "https://techcrunch.com/category/artificial-intelligence/feed/"
+    hint: "termek"
+  - name: "Ars Technica · AI"
+    url: "https://arstechnica.com/ai/feed/"
+    hint: "termek"
+  - name: "MIT Technology Review · AI"
+    url: "https://www.technologyreview.com/topic/artificial-intelligence/feed"
+    hint: "szabalyozas"
+
+  # ---- Hivatalos AI-labor blogok ----
+  - name: "OpenAI"
+    url: "https://openai.com/news/rss.xml"
+    hint: "modell"
+  - name: "Anthropic"                     # nem hivatalos tükör (Anthropicnak nincs saját RSS-e)
+    url: "https://rsshub.bestblogs.dev/anthropic/news"
+    hint: "modell"
+  - name: "Google DeepMind"
+    url: "https://deepmind.google/blog/feed/basic/"
+    hint: "modell"
+  - name: "Meta AI"
+    url: "https://ai.meta.com/blog/rss/"
+    hint: "modell"
+
+  # ---- Kutatás ----
+  - name: "arXiv cs.AI"
+    url: "http://export.arxiv.org/rss/cs.AI"
+    hint: "modell"
+  - name: "arXiv cs.CL"
+    url: "http://export.arxiv.org/rss/cs.CL"
+    hint: "modell"
+
+  # ---- Közösség / szakértői blogok ----
+  - name: "Hacker News · AI"
+    url: "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT&count=50"
+    hint: "howto"
+  - name: "Simon Willison"
+    url: "https://simonwillison.net/atom/everything/"
+    hint: "howto"
+  - name: "Import AI (Jack Clark)"
+    url: "https://jack-clark.net/feed/"
+    hint: "modell"
+
+# --- Beállítások ---
+settings:
+  # Hány órára visszamenőleg gyűjtsön (a napi futás 24h + ráhagyás):
+  lookback_hours: 30
+  # Legfeljebb ennyi hír kerüljön be naponta (költség-korlát):
+  max_stories_per_day: 40
+  # Ennyi napra visszamenőleg vizsgálja a szálakat és ellentmondásokat:
+  context_days: 21
