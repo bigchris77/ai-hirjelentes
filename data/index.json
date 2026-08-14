@@ -1,17 +1,25 @@
 {
-  "generatedAt": "2026-08-13T06:10:00+02:00",
+  "generatedAt": "2026-08-14T13:37:40+02:00",
   "days": [
+    "2026-08-14",
     "2026-08-13",
     "2026-08-12",
     "2026-08-11"
   ],
   "threads": {
     "gpt52": {
-      "title": "GPT-5.2 kiadás és a benchmark-vita",
+      "title": "Az OpenAI teasert adott ki a következő generációs modellről",
       "articleIds": [
         "c1",
         "b2",
         "a1"
+      ]
+    },
+    "eu-ai-act": {
+      "title": "EU AI törvény és C2PA: Az 50. cikk követelményei",
+      "articleIds": [
+        "c17be27dbe2a",
+        "8b1f3ea984c9"
       ]
     }
   }

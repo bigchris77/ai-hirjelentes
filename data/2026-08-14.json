@@ -1,0 +1,649 @@
+{
+  "date": "2026-08-14",
+  "articles": [
+    {
+      "id": "5bf08bc0b01b",
+      "category": "termek",
+      "time": "13:33",
+      "title": "AI által megoldott matematikai feladatok nyomon követése",
+      "summary": "Egy új dashboard (vibemathed.com) lehetővé teszi a felhasználók számára, hogy nyomon kövessék, milyen matematikai problémákat oldanak meg mesterséges intelligencia rendszerek. Ez az eszköz betekintést nyújthat az AI matematikai képességeinek fejlődésébe és a megoldott feladatok típusába.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://vibemathed.com"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "4d879306fd7e",
+      "category": "howto",
+      "time": "13:28",
+      "title": "LinkGravity: Chat és hanghíd AI kódoló ügynökök számára",
+      "summary": "A LinkGravity egy új eszköz, amely chat és hang interfészt biztosít AI kódoló ügynökök számára. Célja, hogy megkönnyítse a kommunikációt és az interakciót a fejlesztők és az AI alapú kódolási segédek között.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://github.com/dev-sseul/linkgravity"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "24255abcb81c",
+      "category": "szabalyozas",
+      "time": "13:22",
+      "title": "AI cégek könyvpusztítása és ritka könyvek digitalizálása",
+      "summary": "Az Anna's Archive blogja szerint egyes AI cégek fizikai könyveket semmisítenek meg az adatok kinyerése során. A blog felhívást tesz közzé ritka könyvek digitalizálására, jutalmak felajánlásával, hogy megőrizzék azokat a jövő számára.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://fr.annas-archive.gl/blog/physical-destruction.html"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "db9f51f286bc",
+      "category": "szabalyozas",
+      "time": "13:20",
+      "title": "Filozófiai folyóirat publikált nagyrészt AI által írt cikket",
+      "summary": "Egy filozófiai folyóirat szándékosan publikált egy nagyrészt mesterséges intelligencia által írt cikket. Ez a lépés rávilágít az AI szerepére az akadémiai publikációkban és felveti a szerzőséggel, hitelességgel kapcsolatos kérdéseket.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://dailynous.com/2026/08/13/philosophy-journal-publishes-largely-ai-authored-article-on-purpose-guest-post/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "232bd88dae6a",
+      "category": "szabalyozas",
+      "time": "13:20",
+      "title": "Kérdés: Az AI vízjelezés új támadási vektort jelent?",
+      "summary": "A Hacker News-on felmerült a kérdés, hogy az AI által generált tartalmak vízjelezése rejtett kockázatokat hordozhat-e. Aggodalmak merültek fel azzal kapcsolatban, hogy a vízjelekhez társított metaadatok (pl. idő, felhasználó, munkamenet) új támadási felületet biztosíthatnak, amire a felhasználók nincsenek felkészülve.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49297267"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c66d202b2ac1",
+      "category": "termek",
+      "time": "12:45",
+      "title": "Genosyn: Vállalatok működésének automatizálása AI-val",
+      "summary": "A Genosyn egy új platform, amely mesterséges intelligencia segítségével automatizálja a vállalatok működését. Célja, hogy a cégek hatékonyabban működjenek az AI alapú folyamatkezelés és döntéshozatal révén.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://genosyn.com"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "152b4d0906ef",
+      "category": "szabalyozas",
+      "time": "12:44",
+      "title": "Miért szükséges emberi felülvizsgálat az AI által generált biztonsági javításokhoz?",
+      "summary": "A 1Password blogja szerint az AI által generált biztonsági javítások továbbra is szakértő emberi felülvizsgálatot igényelnek. Bár az AI segíthet a sebezhetőségek azonosításában és javításában, a komplexitás és a potenciális mellékhatások miatt elengedhetetlen az emberi ellenőrzés a megbízhatóság és biztonság garantálásához.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://1password.com/blog/why-ai-generated-patches-still-require-human-review"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "819a361c8eab",
+      "category": "howto",
+      "time": "12:44",
+      "title": "Betekintés az AI ügynökök belső működésébe",
+      "summary": "Egy új cikk részletes betekintést nyújt az AI ügynökök belső felépítésébe és működésébe. Célja, hogy demisztifikálja az AI ügynökök koncepcióját, bemutatva, hogyan épülnek fel és milyen képességekkel rendelkeznek.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://pssah4.github.io/vault-operator/guides/capabilities"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "dd0538c4fd17",
+      "category": "termek",
+      "time": "12:41",
+      "title": "Demoscene riport az Assembly 2026 AI versenyéről",
+      "summary": "Egy videó riport mutatja be az Assembly 2026 demoscene esemény AI versenyét. A riport betekintést nyújt abba, hogyan használják az AI-t a kreatív alkotásokban és a demoscene közösségben.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.youtube.com/watch?v=Ob0xuGdbhPA"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "711e210dac1d",
+      "category": "modell",
+      "time": "12:21",
+      "title": "StoryScope: Az AI fikció sajátosságainak vizsgálata",
+      "summary": "Egy új kutatás, a StoryScope, az AI által generált fikciós történetek sajátosságait vizsgálja. A tanulmány célja, hogy feltárja azokat az egyedi jellemzőket és mintázatokat, amelyek az AI által írt narratívákban megjelennek.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://arxiv.org/abs/2604.03136"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "600eff58bae0",
+      "category": "howto",
+      "time": "12:03",
+      "title": "AI-alapú WordPress plugin generátor",
+      "summary": "Egy új eszköz jelent meg, amely mesterséges intelligencia segítségével képes WordPress plugineket generálni. Ez a platform célja, hogy leegyszerűsítse a fejlesztési folyamatot a felhasználók számára.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://steem.dev"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6a98013a32f9",
+      "category": "termek",
+      "time": "12:02",
+      "title": "Deep-Imager: AI képgeneráló és -szerkesztő platform",
+      "summary": "A Deep-Imager egy átfogó AI képkezelő platform, amely szövegből képeket generál, optimalizálja a meglévő képeket, eltávolítja a háttereket, vízjeleket és szövegeket. Ingyenes regisztrációval használható a képek létrehozására és letöltésére.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49296669"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "73fc37ffd6ac",
+      "category": "howto",
+      "time": "11:58",
+      "title": "Szoftvergyár építése AI SDK-hoz",
+      "summary": "A Vercel blogbejegyzése egy szoftvergyár felépítését mutatja be, amely az AI SDK fejlesztését és karbantartását hivatott támogatni. Ez a megközelítés a hatékony és skálázható AI-alapú alkalmazások fejlesztését célozza.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://vercel.com/blog/building-a-software-factory-for-ai-sdk"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ea2ed1ed6b6b",
+      "category": "howto",
+      "time": "11:51",
+      "title": "RAGless: RAG-hoz hasonló, futásidejű LLM API költség nélkül",
+      "summary": "Bemutatkozott a RAGless, egy Retrieval-Augmented Generation (RAG) rendszerekhez hasonló megközelítés, amely futásidőben nem generál LLM API költségeket. Ez a megoldás a költséghatékonyabb AI-alkalmazások fejlesztését teszi lehetővé.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://github.com/EmilResearch/RAGless"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c17be27dbe2a",
+      "category": "szabalyozas",
+      "time": "11:41",
+      "title": "EU AI törvény és C2PA: Az 50. cikk követelményei",
+      "summary": "Egy cikk elemzi az EU AI törvény 50. cikkelyének követelményeit a C2PA (Content Authenticity Initiative) szabvány szemszögéből. Kiemeli, hogy a mesterséges intelligencia által generált tartalmak hitelességének és átláthatóságának biztosítása kulcsfontosságú.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://c2paviewer.com/articles/eu-ai-act-content-credentials"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": "eu-ai-act",
+      "contradiction": null
+    },
+    {
+      "id": "8b1f3ea984c9",
+      "category": "howto",
+      "time": "11:29",
+      "title": "OpenComplAI: Nyílt forráskódú EU AI törvény megfelelőségi ellenőrzés CI/CD-ben",
+      "summary": "Bemutatkozott az OpenComplAI, egy nyílt forráskódú eszköz, amely az EU AI törvénynek való megfelelőségi ellenőrzéseket integrálja a CI/CD (folyamatos integráció/folyamatos szállítás) munkafolyamatokba. Ez segíti a fejlesztőket abban, hogy már a fejlesztés korai szakaszában biztosítsák az AI-rendszerek szabályozási megfelelőségét.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://github.com/opencomplai/opencomplai"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": "eu-ai-act",
+      "contradiction": null
+    },
+    {
+      "id": "a8d30f7063b5",
+      "category": "termek",
+      "time": "11:21",
+      "title": "Apple és Alibaba közös AI modell fejlesztése Kínában",
+      "summary": "Az Apple állítólag egyedi AI modellt képzett Kína számára az Alibaba technológiai óriás segítségével. Ez a ritka, határokon átívelő partnerség a Peking és Washington közötti növekvő feszültségek ellenére valósult meg.",
+      "sources": [
+        {
+          "name": "The Verge · AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+        },
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "973ca452186a",
+      "category": "howto",
+      "time": "11:17",
+      "title": "Drift Anchor: Gyors hozzáférés bevált AI promptokhoz",
+      "summary": "A Drift Anchor egy bővítmény, amely gyors hozzáférést biztosít a felhasználók bevált és gyakran használt AI promptjaihoz. Célja, hogy optimalizálja és felgyorsítsa a mesterséges intelligenciával való interakciót.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://microsoftedge.microsoft.com/addons/detail/dpedbbcbfmpjjonjolngjjpclkgahlpm"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "fcf92190522d",
+      "category": "howto",
+      "time": "10:48",
+      "title": "AI használata: Ne feledkezz meg a \"korbácsodról\"",
+      "summary": "Egy cikk arra hívja fel a figyelmet, hogy az AI használata során is fontos a kontroll és a kritikus gondolkodás. A \"korbács\" metafora arra utal, hogy a felhasználóknak aktívan irányítaniuk kell az AI-t, és nem szabad vakon megbízniuk benne.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://skyecleary.substack.com/p/are-you-using-ai-do-not-forget-your"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "aa100617486d",
+      "category": "howto",
+      "time": "10:46",
+      "title": "OpenRouter: Egységes LLM API útválasztással és tartalékokkal",
+      "summary": "Az OpenRouter egy egységes API-t kínál nagyméretű nyelvi modellekhez (LLM), amely útválasztási és tartalék mechanizmusokat is tartalmaz. Ez lehetővé teszi a fejlesztők számára, hogy rugalmasabban és megbízhatóbban integrálják a különböző LLM-eket alkalmazásaikba.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://trpevski.com/blog/openrouter-unified-llm-api-with-routing-and-fallbacks/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e729541a27ce",
+      "category": "termek",
+      "time": "10:37",
+      "title": "AI-alapú SaaS biztonsági szkenner",
+      "summary": "Egy új, mesterséges intelligenciával működő biztonsági szkennert mutattak be SaaS alkalmazásokhoz. A Sentrint nevű eszköz célja a szoftver mint szolgáltatás platformok sebezhetőségeinek azonosítása.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://sentrint.com/sample"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "81b2f8ea45e2",
+      "category": "howto",
+      "time": "10:28",
+      "title": "Noviz AI nyílt forráskódú ERP ügynök architektúra",
+      "summary": "A Noviz AI nyílt forráskódúvá tette az ERP ügynök integrációs architektúráját. Ez a lépés lehetővé teszi a fejlesztők számára, hogy hozzáférjenek és felhasználják az ERP rendszerekbe ágyazott AI-ügynökök építéséhez szükséges kódot és struktúrát.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49296015"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d4085d3bfee2",
+      "category": "termek",
+      "time": "10:24",
+      "title": "Vállalati AI alkalmazások: asszisztenciától a végrehajtásig",
+      "summary": "Az OpenAI egy cikket tett közzé arról, hogyan alkalmazzák a vállalatok a mesterséges intelligenciát a gyakorlatban. A publikáció bemutatja az AI szerepét a puszta asszisztenciától a komplex feladatok végrehajtásáig.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "af54429eaa6e",
+      "category": "szabalyozas",
+      "time": "10:18",
+      "title": "Felvetés a Hacker News-on: Az AI hírek áthelyezése",
+      "summary": "Egy felhasználó felvetette a Hacker News-on, hogy az AI-val kapcsolatos híreket – modellek, árazás, teljesítmény, önhosztolás és jogszabályok – esetleg egy külön platformra kellene áthelyezni. Az indoklás szerint ezek a hírek egyre inkább üzleti jellegűek, és kevésbé illeszkednek a \"hacking\" témakörébe.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49295962"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a2b0c05a449e",
+      "category": "szabalyozas",
+      "time": "10:11",
+      "title": "OpenAI incidens a Hugging Face-en, újabb szabályozási felhívások",
+      "summary": "Egy incidens az OpenAI és a Hugging Face kapcsán újabb felhívásokat váltott ki az AI-szabályozás szigorítására. A Forbes cikke szerint ez az esemény ismét rámutat a nagy technológiai cégek ellenőrzésének szükségességére.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.forbes.com/sites/barrycollins/2026/07/22/rogue-openai-attack-fuels-demands-to-rein-in-big-tech/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "761c32c0a357",
+      "category": "howto",
+      "time": "09:57",
+      "title": "AI használata tanulásra: felvetés a Hacker News-on",
+      "summary": "A Hacker News-on egy vita indult arról, hogyan használható a mesterséges intelligencia tanulási célokra. A felhasználók tapasztalatokat és munkafolyamatokat osztanak meg a technológiák, koncepciók és elméletek elsajátításában az AI segítségével.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49295839"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7ce33865caf6",
+      "category": "termek",
+      "time": "09:56",
+      "title": "Comma AI bemutatja a Chestnutot",
+      "summary": "A Comma AI bejelentette a Chestnut nevű új termékét vagy kezdeményezését. A részletek a cég blogbejegyzésében találhatók.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://blog.comma.ai/chestnut/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "83282d6684c1",
+      "category": "szabalyozas",
+      "time": "09:53",
+      "title": "Bíró szerint AI-nak szánt üzeneteket rejtett el a felperes bírósági beadványokban",
+      "summary": "Egy connecticuti bíró azt állítja, hogy a felperes mesterséges intelligenciának szánt rejtett üzeneteket helyezett el a bírósági beadványokban. Ez az eset rávilágít az AI jogi dokumentumokban való etikátlan felhasználásának potenciális problémáira.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "391d7c80cdd3",
+      "category": "howto",
+      "time": "09:39",
+      "title": "Miser: Költségoptimalizált AI Gateway",
+      "summary": "Bemutatták a Miser nevű AI Gateway-t, amelynek célja a mesterséges intelligencia szolgáltatások költségeinek optimalizálása. Az eszköz segíthet a felhasználóknak pénzt megtakarítani az AI-modellek elérésénél és használatánál.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://github.com/rShetty/miser"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "627a59aedf96",
+      "category": "modell",
+      "time": "09:36",
+      "title": "Az AI nem gondolkodik túl a matematikusokon, hanem jobban emlékszik",
+      "summary": "Egy új cikk szerint a mesterséges intelligencia matematikai feladatokban mutatott teljesítménye nem a gondolkodási képességéből, hanem a hatalmas mennyiségű információ megjegyzésének és felidézésének képességéből fakad. Ez a perspektíva újraértelmezi az AI matematikai problémamegoldó képességeit.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b7995d0a4e6f",
+      "category": "szabalyozas",
+      "time": "09:33",
+      "title": "Új betűtípus az AI-kaparók ellen",
+      "summary": "Egy új betűtípus fejlesztése történt, amely a weboldalak tartalmát értelmetlenné teszi az AI-kaparók számára, miközben az emberi olvasók számára olvasható marad. Ez a technológia célja, hogy megvédje a webes tartalmakat a nagy nyelvi modellek képzéséhez történő jogosulatlan felhasználástól.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "fbee205943f0",
+      "category": "szabalyozas",
+      "time": "09:29",
+      "title": "A Claude AI tartalomjelölései globálisak lesznek, de nem bizonyítják a szerzőséget",
+      "summary": "Az Anthropic bevezeti a Claude AI által generált tartalmak globális jelölését, ami segíthet azonosítani az AI-eredetű szövegeket. Fontos azonban, hogy ezek a jelölések nem szolgálnak a szerzőség bizonyítékaként, és nem garantálják a tartalom hitelességét.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.ainews.com/p/claude-ai-content-marks-will-go-global-but-cannot-prove-authorship"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c699df892434",
+      "category": "termek",
+      "time": "09:26",
+      "title": "Az AI-natív vállalat koncepciója",
+      "summary": "A cikk az AI-natív vállalatok koncepcióját vizsgálja, amelyek alapvetően az AI technológiákra építik működésüket és üzleti modelljüket. Ez a megközelítés mélyreható változásokat hozhat a szervezeti struktúrákban és a munkafolyamatokban.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://danielmiessler.com/blog/the-ai-native-company"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a387ec6a7989",
+      "category": "termek",
+      "time": "09:18",
+      "title": "Az Apple és az AI: Siri korai évei",
+      "summary": "A cikk az Apple Siri asszisztensének korai fejlesztési szakaszát és az AI-val való kapcsolatát mutatja be. Részletezi, hogyan illeszkedett a Siri az Apple stratégiájába, és milyen kihívásokkal néztek szembe a kezdeti időkben.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://thechipletter.substack.com/p/apple-and-ai-siri-the-early-years"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "3584067252cc",
+      "category": "howto",
+      "time": "09:10",
+      "title": "PandaOS: Helyi AI munkaterület fejlesztőknek",
+      "summary": "A PandaOS egy helyi AI munkaterületet kínál fejlesztők számára, amely lehetővé teszi számukra, hogy AI-modelleket futtassanak és fejlesszenek a saját gépeiken. Ez a platform célja a fejlesztési folyamat egyszerűsítése és a privát adatok biztonságának növelése.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://pandaos.ai/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "84d6c840598e",
+      "category": "howto",
+      "time": "09:08",
+      "title": "Noviz AI: ERP AI ügynökök architektúrája és forráskódja",
+      "summary": "A Noviz AI egy nyílt forráskódú architektúrát és forráskódot biztosít ERP rendszerekhez kapcsolódó AI ügynökök fejlesztéséhez. Az ERPNext-re optimalizált megoldás lehetővé teszi az AI ügynökök integrálását üzleti adatokkal, API-kkal és munkafolyamatokkal.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49295533"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "285a2d8709ea",
+      "category": "termek",
+      "time": "08:59",
+      "title": "AI kísérletek a személyes egészségügyben",
+      "summary": "A cikk az AI alkalmazásának lehetőségeit vizsgálja a személyes egészségügyben, különös tekintettel az egyéni egészségügyi adatok feldolgozására és elemzésére. Kísérleteket mutat be, amelyek célja, hogy az AI segítsen jobban megérteni és kezelni az egyéni egészségügyi állapotokat.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://karankurani.com/writing/post/w_20260721140414_b0e102/the-body-remembers-but-the-doctor-cannot-experiments-with-ai-in-personal-health/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "be39a0d304e0",
+      "category": "termek",
+      "time": "08:48",
+      "title": "A Mistral AI 1 GW európai számítási kapacitást építene 2030-ra",
+      "summary": "A Mistral AI ambiciózus tervet jelentett be, miszerint 2030-ra 1 gigawatt számítási kapacitást épít ki Európában. Ez a lépés célja, hogy megerősítse a cég pozícióját a nagy nyelvi modellek piacán, és független európai AI infrastruktúrát hozzon létre.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "266ad442754a",
+      "category": "termek",
+      "time": "08:44",
+      "title": "Duxpath AI",
+      "summary": "A Duxpath AI egy új platform vagy szolgáltatás, amely az AI technológiát használja valamilyen specifikus feladat elvégzésére. A rendelkezésre álló információk alapján további részletek nem ismertek a pontos funkcióiról.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49295396"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6990f651e122",
+      "category": "howto",
+      "time": "08:44",
+      "title": "AI SRE ügynökök értékelése éles környezetben",
+      "summary": "A cikk az AI alapú Site Reliability Engineering (SRE) ügynökök éles környezetben történő értékelésének módszereit és kihívásait tárgyalja. Bemutatja, hogyan lehet mérni ezeknek az ügynököknek a teljesítményét és hatékonyságát a termelési rendszerekben.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://one2n.io/blog/how-to-evaluate-ai-sre-agents-for-production"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
