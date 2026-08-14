@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-11",
+  "articles": [
+    {
+      "id": "c1",
+      "category": "modell",
+      "time": "16:45",
+      "title": "Az OpenAI teasert adott ki a következő generációs modellről",
+      "summary": "Rövid, hivatalos előzetes utalt egy közelgő modellfrissítésre, konkrét dátum nélkül. A közlemény a megbízhatóság és az ügynöki képességek javítását ígérte. Az iparági várakozás ezután gyorsan felerősödött.",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": "gpt52",
+      "contradiction": null
+    },
+    {
+      "id": "r1",
+      "category": "modell",
+      "time": "09:30",
+      "title": "Új kutatás: a kisebb modellek célzott finomhangolással megközelítik a nagyokat szűk feladatokon",
+      "summary": "Egy arXiv-tanulmány szerint gondosan válogatott adatokkal a kisebb modellek néhány konkrét feladaton felzárkóznak a jóval nagyobbakhoz. A szerzők a minőségi adat fontosságát hangsúlyozzák a puszta méret helyett. A módszertan reprodukálható kódját is közzétették.",
+      "sources": [
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org"
+        },
+        {
+          "name": "Papers with Code",
+          "url": "https://paperswithcode.com"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}

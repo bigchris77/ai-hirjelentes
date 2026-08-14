@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-12",
+  "articles": [
+    {
+      "id": "b2",
+      "category": "modell",
+      "time": "14:20",
+      "title": "Kiszivárgott részletek a GPT-5.2-ről a kiadás előtt",
+      "summary": "A hivatalos bejelentés előtt fejlesztői körökben terjedtek a modell képességeiről szóló korai adatok. A pletykák a megnövelt kontextusablakot és az árazás változását emelték ki. Az OpenAI ezeket akkor nem kommentálta.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": "gpt52",
+      "contradiction": null
+    },
+    {
+      "id": "t1",
+      "category": "termek",
+      "time": "11:05",
+      "title": "Nagy felhőszolgáltató integrálja a nyílt súlyú modelleket a fejlesztői platformjába",
+      "summary": "Bejelentették, hogy több népszerű nyílt modell natívan elérhető lesz a platform ügynök-építő eszközeiben. A cél a bezártság csökkentése és a költségoptimalizálás. A funkció előzetes hozzáféréssel indul a vállalati ügyfeleknek.",
+      "sources": [
+        {
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com"
+        },
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com"
+        }
+      ],
+      "sourceCount": 3,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2026-08-13",
+  "articles": [
+    {
+      "id": "a1",
+      "category": "modell",
+      "time": "05:40",
+      "title": "Megjelent a GPT-5.2 — a fókusz a hosszú kontextuson és a hibaarány csökkentésén",
+      "summary": "Az OpenAI kiadta a GPT-5.2-t, amely a cég szerint jelentősen csökkenti a hallucinációt hosszú dokumentumok feldolgozásánál. A modell 1 millió tokenes kontextust kezel, és az ügynöki feladatokban ígér nagy ugrást. A hozzáférés fokozatosan gördül ki az API-n és a fizetős felületeken.",
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com"
+        },
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com"
+        }
+      ],
+      "sourceCount": 4,
+      "threadId": "gpt52",
+      "contradiction": {
+        "note": "Ellentmondó benchmark-adatok",
+        "sides": [
+          {
+            "claim": "Az OpenAI 22%-os javulást közöl a SWE-bench feladatokon az elődhöz képest.",
+            "source": "OpenAI"
+          },
+          {
+            "claim": "Független tesztelők egyelőre 9-11% körüli javulást mértek ugyanezen a benchmarkon.",
+            "source": "Ars Technica · AI"
+          }
+        ]
+      }
+    },
+    {
+      "id": "h1",
+      "category": "howto",
+      "time": "07:15",
+      "title": "Gyakorlati útmutató: retrieval-augmented ügynökök építése kisebb csapatoknak",
+      "summary": "Egy részletes bejegyzés végigveszi, hogyan állítható össze megbízható RAG-ügynök néhány nyílt komponensből. Kiemeli a leggyakoribb hibát: a rossz minőségű darabolást a forrásdokumentumoknál. Konkrét, másolható konfigurációs példákat is ad.",
+      "sources": [
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "s1",
+      "category": "szabalyozas",
+      "time": "08:02",
+      "title": "Az EU AI-hivatal pontosította az általános célú modellekre vonatkozó dokumentációs elvárásokat",
+      "summary": "Új iránymutatás jelent meg arról, milyen technikai dokumentációt kell a nagy modellek fejlesztőinek benyújtaniuk. A hangsúly a betanító adatok összefoglalásán és a rendszerkockázatok értékelésén van. A határidőket a legnagyobb modellekre szigorúbban szabják meg.",
+      "sources": [
+        {
+          "name": "MIT Technology Review · AI",
+          "url": "https://technologyreview.com"
+        },
+        {
+          "name": "The Verge · AI",
+          "url": "https://theverge.com"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
