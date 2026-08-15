@@ -1,0 +1,645 @@
+{
+  "date": "2026-08-15",
+  "articles": [
+    {
+      "id": "aecb2f988f3c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Reasoning is a Learnable Rule-Based Process",
+      "summary": "arXiv:2608.12325v1 Announce Type: new Abstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite im",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12325"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "16782ecf2bd1",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+      "summary": "arXiv:2608.12345v1 Announce Type: new Abstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classificatio",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12345"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1aade843ea3d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
+      "summary": "arXiv:2608.12346v1 Announce Type: new Abstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping curre",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12346"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1db7e3c39635",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
+      "summary": "arXiv:2608.12368v1 Announce Type: new Abstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents m",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12368"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "cf28e689c5ce",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+      "summary": "arXiv:2608.12371v1 Announce Type: new Abstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized sch",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12371"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6d50c5688a07",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: We Need Practical AI Alignment Methods to Mirror Human Reasoning",
+      "summary": "arXiv:2608.12372v1 Announce Type: new Abstract: AI systems are increasingly employed as decision aids, decision delegates, or autonomous decision-makers. This position paper argues that in many settings, particularly high-stakes decision-making, we need accurate cognitively-align",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12372"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ba13c5712f27",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Don't Want Your LLM to Recommend Nuclear Strike? Try Asking It in Japanese",
+      "summary": "arXiv:2608.12373v1 Announce Type: new Abstract: Large language models are increasingly used in strategic and advisory contexts, yet their safety alignment is typically evaluated in English only. We test nine models from six providers and ask whether the language of a prompt can c",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12373"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "fb00c34bf22a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Dual-Flow Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation",
+      "summary": "arXiv:2608.12385v1 Announce Type: new Abstract: As large language models serve more requests, cumulative inference cost is becoming increasingly important relative to one-time training cost. The two inference phases stress hardware differently: prompt prefill is parallel and typi",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12385"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "aaa49fbe18df",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+      "summary": "arXiv:2608.12389v1 Announce Type: new Abstract: Cross-domain zero- or few-shot personalization aims to generate user-preferred responses in unseen conversational domains from only a handful of target-domain interactions. Existing adaptation methods struggle to calibrate update ma",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12389"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e0f4ff7303d1",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Research Assistant: AstraZeneca's Agentic System for R&D",
+      "summary": "arXiv:2608.12395v1 Announce Type: new Abstract: We describe Research Assistant, an internal LLM-based system developed at AstraZeneca to help scientists and clinicians explore biomedical questions across a broad range of data sources. The system provides a chat-style interface th",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12395"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "754acc1bc8a7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "LLM-ek korlátai összetett utasításoknál",
+      "summary": "A nagyméretű nyelvi modellek (LLM-ek) jól kezelik az egyedi utasításokat és korlátozásokat, de teljesítményük drasztikusan romlik, ha egyszerre sok, összetett korlátozásnak kell megfelelniük. A kutatás azt vizsgálja, hogyan változik az LLM-ek teljesítménye az összetett korlátozások számának növekedésével.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12426"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d84f93d63721",
+      "category": "modell",
+      "time": "06:00",
+      "title": "MindMemOS: Önmódosító memóriarendszer AI ügynököknek",
+      "summary": "Bemutatkozik a MindMemOS, egy hordozható és önfejlődő memóriarendszer AI ügynökök számára. Ez a rendszer lehetővé teszi az ügynököknek, hogy folyamatosan adaptálják memóriamodelljeiket, szervezési stratégiáikat és eljárási tudásukat a használat során, szemben a fix memóriarendszerekkel.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12428"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "78b8544fe514",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Szabályozott tartós memória hosszú távú AI ügynököknek",
+      "summary": "A Governed Persistent Memory (GPM) egy ellenőrizhető, bitemporális állapotátmeneti modellt vezet be hosszú távú AI ügynökök számára. Ez a rendszer kezeli az ellentmondó, elavult vagy visszavont adatok problémáját a memóriában, biztosítva a forrásalapú bevitel és a szabályozott életciklus állapotát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12476"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7267e826bdef",
+      "category": "modell",
+      "time": "06:00",
+      "title": "ε-MemEvo: Adaptív tudásátadás LLM programfejlesztéshez",
+      "summary": "Az ε-MemEvo egy keretrendszer az LLM-alapú programfejlesztési rendszerek (mint a FunSearch) közötti tudásátadáshoz. Ahelyett, hogy minden feladatot elszigetelten optimalizálna és elvetné a keresési tapasztalatokat, az ε-MemEvo tárolja és adaptívan átadja a memóriát a különböző feladatok között.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12522"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "46e00e908875",
+      "category": "modell",
+      "time": "06:00",
+      "title": "CAS: Kauzális attribúciós pontszám magyarázható AI-hoz",
+      "summary": "Bemutatkozik a Causal Attribution Score (CAS), egy kompakt pontszám architektúra a kauzális magyarázathoz az AI-ban. A CAS egy azonosított intervenciós koalíciós játékból indul ki, és a modell kimenetének ok-okozati magyarázatát adja, nem csupán a prediktív attribúciót.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12555"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "3d4410b5640f",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Trie automaták korlátozott dekódoláshoz LLM-ekben",
+      "summary": "A nagyméretű nyelvi modelleknek gyakran kell strukturált kimeneteket generálniuk, amelyek előre definiált sémáknak felelnek meg, például véges halmazból választva. A Trie automaták használata hatékonyabb megoldást kínál a korlátozott dekódolásra, mint a hagyományos általános célú grammatika fordítás, különösen nagy értékhalmazok esetén.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12574"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0ad9d2adeee7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Reasoning Jury: Többmodell konszenzus az érvelési láncok értékelésére",
+      "summary": "A Reasoning Jury egy többmodell alapú konszenzus rendszer, amely az LLM-ek által generált hosszú érvelési láncok minőségét értékeli. Célja az érvelési adatok kurálása, a megerősítő tanulás során erős tréning jelek biztosítása, és az érvelési hibák azonosítása a modell teljesítményének mélyebb megértéséhez.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12585"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0c72bead2f6d",
+      "category": "termek",
+      "time": "06:00",
+      "title": "Ellenőrizhető AI ügynök pajzsmirigy ultrahang diagnózishoz",
+      "summary": "A ThyroidXAgent egy klinikus-interaktív AI ügynökrendszer, amely koordinálja a pajzsmirigy ultrahang diagnózisának speciális eszközeit, beleértve a lézió lokalizációt, mérést és kockázati rétegzést. A rendszer auditálható módon tárolja a diagnosztikai lépéseket és bizonyítékokat, támogatva a klinikai felülvizsgálatot.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12590"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f26ed30ec06c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "DiG-bench: Felfedezés játékokban AI benchmarkhoz",
+      "summary": "A DiG-bench egy új AI benchmark, amely a tudományos felfedezés képességét vizsgálja ellenőrzött környezetben, ahol az objektív ismeretlen. Célja a novelizáció, azaz új általánosítások megfogalmazásának képességének mérése az AI rendszerekben.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12593"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d00c0521d660",
+      "category": "modell",
+      "time": "06:00",
+      "title": "LLM-ek \"viselkedési visszaesése\" a korlátozások visszavonásakor",
+      "summary": "A kutatás a \"viselkedési visszaesés\" jelenségét vizsgálja LLM párbeszédekben, ahol a modellek továbbra is betartják a már visszavont korlátozásokat. Egy új eszköz méri a korlátozások befolyását és segít helyreállítani a modell viselkedését a visszavonás után.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12599"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6a1e6491a8b5",
+      "category": "modell",
+      "time": "06:00",
+      "title": "@skills: Attention is all you have",
+      "summary": "arXiv:2608.12610v1 Announce Type: new Abstract: There are 56,804 public agent skills today, and teams write many more privately. The dominant delivery model is installation: once installed, a skill's description remains in the system prompt, competing for fewer than 100 reliable ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12610"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b8a33be24a8f",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Jagged Judges: Epistemic Stability Under Silence, Pressure, and Persistence",
+      "summary": "arXiv:2608.12645v1 Announce Type: new Abstract: LLM judges have become central infrastructure for model evaluations, online grading, and reward modeling. Judges are typically validated by accuracy on golden data, but accuracy says little about whether they are stable under re-pro",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12645"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a531441e02ec",
+      "category": "modell",
+      "time": "06:00",
+      "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+      "summary": "arXiv:2608.12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment. The steering decision is the pre-commit choice at that boundary: proceed, or hold for human or policy review. W",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12654"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1070af193710",
+      "category": "modell",
+      "time": "06:00",
+      "title": "General Probabilities of Causation with Causal Knowledge",
+      "summary": "arXiv:2608.12657v1 Announce Type: new Abstract: Probabilities of causation (PoCs) characterize individual causal responses that cannot be directly observed and therefore generally require partial identification. Tian and Pearl first derived theoretically sharp bounds for binary P",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12657"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "309e5fc0102f",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Designing AI Pipelines for Decision-Ready ITSM Intelligence",
+      "summary": "arXiv:2608.12670v1 Announce Type: new Abstract: IT service management (ITSM) systems accumulate large volumes of heterogeneous ticket data that are difficult for sales and executive stakeholders to convert into actionable intelligence. This paper presents a sociotechnical AI pipe",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12670"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e0dc16678f1d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "On the Expressive Power of Transformers",
+      "summary": "arXiv:2608.12671v1 Announce Type: new Abstract: Multi-layer transformers form the critical component of essentially all large language models (LLMs) in use today. Because of their ubiquity and computational capability, there is a rapidly growing body of work that aims to precisel",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12671"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ccdbc848e6ed",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Lines and Ladders: A Context-Aware Multi-Agent Framework for Large-Scale Retail Price Taxonomy",
+      "summary": "arXiv:2608.12674v1 Announce Type: new Abstract: Maintaining price consistency and executing an Every Day Low Price strategy is critical for global retailers. However, with catalogs spanning millions of active items, manual governance of price relationships is infeasible. Inconsis",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12674"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "224b5d539848",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Privacy-Preserving RAG by Concealing Sensitive Information from External LLMs",
+      "summary": "arXiv:2608.12675v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is widely used to improve the performance of Large Language Models (LLMs) in answering user queries. Existing privacy research on RAG has focused on preventing unauthorized users from accessing s",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12675"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b6dab5fc208d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "The Role of Natural Language Understanding in Multimodal Video-Based Dengue Diagnosis",
+      "summary": "arXiv:2608.12677v1 Announce Type: new Abstract: Detecting infection-related behavioral changes in mosquitoes from video data is challenging because mosquitoes are small, move rapidly and irregularly, and are affected by environmental factors such as background, lighting, and shad",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12677"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "14716195ea0d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Beyond the Best Guess: Improving LLM Solution Coverage with Evolution Strategies",
+      "summary": "arXiv:2608.12679v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly deployed in discovery domains such as math and science. The usual approach is to present the problem to the model and use its answer as the proposed solution. However, beyond this best g",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12679"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "8fd6bf0d92e5",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
+      "summary": "arXiv:2608.12743v1 Announce Type: new Abstract: Spatial intelligence is becoming a foundation for embodied agents, robotic planning, and multimodal assistants. To improve the spatial reasoning ability of VLM agents, existing work has mainly followed two lines. One line uses post-",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12743"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e5cc2da89855",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Correct Is Not Governed: Provenance Integrity in Agentic Workflows",
+      "summary": "arXiv:2608.12761v1 Announce Type: new Abstract: Agentic workflows are commonly evaluated by whether they reach the correct outcome. That is insufficient in institutional settings, where a correct action may rely on the wrong authority, an unsupported completion claim, or work mad",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12761"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0986765b49a7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "PROVE-RT: Generating Mechanized Theorem Prover Scripts for Real-Time Systems using LLMs",
+      "summary": "arXiv:2608.12762v1 Announce Type: new Abstract: Schedulability analysis is essential for certifying real-time systems, but existing tests are often developed through pen-and-paper proofs that are difficult to scale, validate, and maintain. Mechanized verification in PROSA/ROCQ of",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12762"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "33ae97f90083",
+      "category": "modell",
+      "time": "06:00",
+      "title": "ARAC: Benchmarking Auto-Research's Alignment and Completeness on End-to-End Researchs",
+      "summary": "arXiv:2608.12788v1 Announce Type: new Abstract: The rapid advancement of Auto-Research has surfaced a fundamental evaluation challenge: how can we measure the alignment, logical coherence, and evolutionary completeness of its research trajectory with human research behavior? We p",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12788"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "2891da5f82eb",
+      "category": "modell",
+      "time": "06:00",
+      "title": "CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation",
+      "summary": "arXiv:2608.12842v1 Announce Type: new Abstract: Model merging has recently attracted significant attention as a promising paradigm for constructing unified multi-task models without requiring additional retraining. However, parameter conflicts and knowledge interference across ta",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12842"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b7c31f06b353",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Beyond Retrieval: Query-Conditioned Reuse of Long-Horizon Agent Trajectories",
+      "summary": "arXiv:2608.12847v1 Announce Type: new Abstract: Retrieval can identify a past trajectory that may matter, yet it does not specify how an acting agent should use that trajectory after users, entities, constraints, or environment state have changed. We identify this post-retrieval ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12847"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f66b6989b601",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
+      "summary": "arXiv:2608.12851v1 Announce Type: new Abstract: Self-improving LLM agents convert successful trajectories into persistent cross-task state. An unsafe success can thereby become reusable policy after its triggering input disappears. Skill evolution makes this failure measurable by",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12851"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "498ffe55d599",
+      "category": "modell",
+      "time": "06:00",
+      "title": "AI and Consumer Rights in India Working Paper",
+      "summary": "arXiv:2608.12863v1 Announce Type: new Abstract: As AI systems proliferate in consumer facing applications, questions about liability for AI related harms remain unresolved. This working paper examines whether India's Consumer Protection Act, 2019, adequately addresses harm caused",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12863"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "473ed062feb4",
+      "category": "modell",
+      "time": "06:00",
+      "title": "ReflectFact: Self-Reflective Agents for Improving Comprehension and Reasoning in Multi-Hop Fact Verification",
+      "summary": "arXiv:2608.12877v1 Announce Type: new Abstract: Multi-hop fact verification, which verifies claims by reasoning over multiple pieces of evidence, is critical for combating misinformation on social media yet remains highly challenging. Recent methods primarily rely on multi-agent ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12877"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "db5bb778125e",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Predictive Memory Localization: Forecasting Selective Intervention Paths from Internal Signals",
+      "summary": "arXiv:2608.12892v1 Announce Type: new Abstract: Activation steering turns localized representations into control directions, but localization alone does not reveal whether a direction has a selective operating regime. We introduce Predictive Memory Localization (PML), which treat",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.12892"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
