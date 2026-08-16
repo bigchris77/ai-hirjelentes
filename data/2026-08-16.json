@@ -1,0 +1,101 @@
+{
+  "date": "2026-08-16",
+  "articles": [
+    {
+      "id": "49b0a683c25a",
+      "category": "szabalyozas",
+      "time": "23:29",
+      "title": "Nő állítja: mostohaapja Grok AI-val alakított át gyermekfotót explicit képpé",
+      "summary": "Egy nő azt állítja, hogy mostohaapja a Grok mesterséges intelligencia eszközt használta gyermekkori fotóinak explicit képekké alakítására. A nő szerint az AI eszközök \"a mindennapi életet gyermekek szexuális bántalmazásává változtatják\".",
+      "sources": [
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "10bbeaa8150c",
+      "category": "howto",
+      "time": "22:45",
+      "title": "Játssz chatbotot és nevess az AI-n",
+      "summary": "A \"Your AI Slop Bores Me\" nevű eszköz lehetővé teszi a felhasználók számára, hogy chatbotot szimuláljanak. Két füllel rendelkezik: emberi kérés és AI-szerepjáték, ahol mindkét oldalon emberi résztvevő van.",
+      "sources": [
+        {
+          "name": "The Verge · AI",
+          "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "447c79c5c7dd",
+      "category": "modell",
+      "time": "20:58",
+      "title": "Az Anthropic részleteket oszt meg a Claude új vízjeleinek működéséről",
+      "summary": "Az Anthropic további információkat tett közzé arról, hogyan működnek majd a Claude modell által generált tartalmak új vízjelei. A részletek kitérnek arra, hogy a vízjelezés hogyan valósul meg, elrejthető-e szerkesztéssel, és milyen hatással van a kódra.",
+      "sources": [
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": "eu-ai-act",
+      "contradiction": null
+    },
+    {
+      "id": "c2a2d25fa30b",
+      "category": "termek",
+      "time": "18:30",
+      "title": "A SpaceX hivatalosan lezárta a Cursor felvásárlását",
+      "summary": "Az AI kódoló startup, a Cursor, hivatalosan is a SpaceX részévé vált. Ezzel a felvásárlással a Cursor technológiája és csapata beépül a SpaceX működésébe.",
+      "sources": [
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b0ec4660c702",
+      "category": "howto",
+      "time": "16:49",
+      "title": "CORS Chat: Új eszköz LLM chat végpontok tesztelésére",
+      "summary": "Simon Willison létrehozta a CORS Chat nevű eszközt, amely egy webes felhasználói felületet biztosít OpenAI-kompatibilis chat végpontok tesztelésére. Az eszközt a Qwen 3.8 27B modell LM Studio-ban való futtatásához fejlesztették, és sikeresen tesztelték LM Studio-val és OpenRouter-rel is.",
+      "sources": [
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Aug/15/cors-chat/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "69a56244fe98",
+      "category": "termek",
+      "time": "05:22",
+      "title": "Morris, az egyetlen északi szula a Csendes-óceánon",
+      "summary": "Morris, egy északi szula (Morus bassanus), helyi híresség a kaliforniai Pillar Point Harborban, mivel ő az egyetlen ismert példány a Csendes-óceánon. 14 éve jelent meg a Farallon-szigeteken, és azóta a kikötőben él, ahol könnyen felismerhető sárga fejéről és fehér tollazatáról.",
+      "sources": [
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Aug/15/sighting-391300422/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
