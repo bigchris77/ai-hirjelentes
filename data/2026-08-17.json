@@ -1,0 +1,681 @@
+{
+  "date": "2026-08-17",
+  "articles": [
+    {
+      "id": "e2b391ce26c2",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Jutalommentes értékelési rubrikák ügynökök túlbecsülésének csökkentésére",
+      "summary": "A nyelvi modell ügynökök értékelése egyre inkább automatikus bíróként működő második nyelvi modellre támaszkodik, mivel a környezeti jutalom drága vagy nem elérhető. Ez a kutatás jutalommentes értékelési rubrikákat vezet be, amelyek célja az ügynökök túlértékelésének csökkentése, növelve az értékelések megbízhatóságát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13564"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b9fdaebce323",
+      "category": "modell",
+      "time": "06:00",
+      "title": "MoE modellek mélységérzékeny szenzitivitás-elemzése",
+      "summary": "A Mixture-of-Experts (MoE) architektúrák skálázzák a nagy nyelvi modelleket (LLM-eket) a számítási hatékonyság megőrzése mellett. Ez a tanulmány szisztematikus rétegenkénti szenzitivitás-elemzést mutat be, amely feltárja az egyes MoE rétegek relatív fontosságát, különösen a modelltömörítés szempontjából.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13565"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6545ec0a4aa6",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Moduláris kognitív architektúra megjelenése LLM-ekben",
+      "summary": "Az emberi agy funkcionális specializációt mutat, külön hálózatokkal a nyelv, formális érvelés és más elmék megértésére. Ez a kutatás azt vizsgálja, hogy a nagy nyelvi modellekben is megjelenik-e hasonló moduláris szerveződés, ami arra utal, hogy ez egy alapvető elv az intelligens rendszerek építésében.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13567"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13567"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b2df6c64a8c7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Egy év az LLM kiszolgálásban: Munkafolyamat evolúció, gyorsítótárazás és terheléselosztás",
+      "summary": "Az LLM-ek kiszolgálása kritikus felhőalapú feladattá vált, és a valós nyomkövetési adatok elengedhetetlenek a rendszerek motiválásához és benchmarkolásához. Ez a tanulmány egy éves LLM kiszolgálási munkafolyamatokat elemez, bemutatva a felhasználói interakciók evolúcióját, valamint a gyorsítótárazási és terheléselosztási stratégiák hatását.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13573"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b353131c2d8f",
+      "category": "howto",
+      "time": "06:00",
+      "title": "Agentao: Szabályozott, helyi első futtatókörnyezet LLM ügynököknek",
+      "summary": "Az LLM ügynökök egyre inkább eszközöket használnak, helyi állapotot módosítanak és külső protokollokkal kommunikálnak, ami kockázatokat rejt magában. Az Agentao egy új futtatókörnyezet, amely a biztonságra és auditálhatóságra fókuszál, csökkentve az olyan kockázatokat, mint a túlzott jogosultságok vagy a prompt injekció.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13574"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c4bb3855ceda",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Az AI értékelésének emberekkel együtt kell működnie",
+      "summary": "Ez a véleménycikk azt állítja, hogy az AI értékelésének jelenlegi paradigmája, amely a szuperhumán autonóm teljesítményre fókuszál, rossz irányba tereli az AI fejlesztését. A szerzők szerint az AI közösségnek az ember-AI csapatok teljesítményének értékelésére kellene áttérnie, hangsúlyozva az együttműködés fontosságát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13577"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "9155f66f05fb",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Stabil téves kalibráció nagy nyelvi modellekben",
+      "summary": "A nagy nyelvi modellek magas magabiztosságú hibáit gyakran a törékeny belső következtetés jeleként kezelik. Ez a tanulmány egy másik lehetőséget vizsgál: a stabil téves kalibrációt, ahol egy magabiztos, de hibás válasz kis zavarok esetén is stabil marad. Két diagnosztikai módszert kombinálnak ennek feltárására.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13591"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13591"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e9bb957a6277",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Feladatok közötti viselkedési konzisztencia mérése LLM ügynökökben",
+      "summary": "Az ügynökök értékelése szinte kizárólag az eredménymutatókra, például a sikerességi arányra támaszkodik, amelyek azt rögzítik, hogy egy ügynök sikeres-e, de nem azt, hogy mennyire konzisztensen viselkedik. Ez a kutatás bevezeti a Viselkedési Konzisztenica Metrikát (BCM), amely számszerűsíti a feladatok közötti viselkedési konzisztenciát, mint különálló és mérhető tulajdonságot.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13598"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d44450b07c9c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Félreértések taxonómiája és modellezése AI ügynökökben",
+      "summary": "A félreértések észlelése sürgető probléma, mivel a kommunikáció egyre inkább AI-közvetített csatornákon keresztül zajlik. Ez a tanulmány egy interdiszciplináris taxonómiát és modellezést mutat be a félreértések generálására, erősítésére és észlelésére, a pragmatikától az AI ügynökökig.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13604"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13604"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6a58a9ea7e51",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Aktív percepció a megtestesült disambiguációhoz",
+      "summary": "A természetes nyelv rugalmas feladatinterfészt biztosít a robotoknak, de a cél kétértelműsége a megtestesült környezetekben nem csak a felhasználói szándékból eredhet. Ez a kutatás az aktív percepciót vizsgálja, mint módszert a hiányzó fizikai bizonyítékok megszerzésére a kétértelműségek feloldásához, ahelyett, hogy csak a felhasználót kérdezné.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13605"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a4418b90e74e",
+      "category": "modell",
+      "time": "06:00",
+      "title": "MobileMem: Tanulás egy év mobilélményből",
+      "summary": "A következő generációs AI ügynökök a mobil eszközökön keresztül válnak tartós személyi asszisztensekké, amelyek folyamatosan tanulnak a felhasználói élményekből. Ehhez hosszú távú memóriára van szükségük, de a meglévő benchmarkok nem megfelelőek ennek értékelésére. A MobileMem egy új megközelítést javasol a mobilélményekből való tanulásra.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13606"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13606"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "3b2e4529f26f",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Nincs univerzális jel az LLM regresszió előrejelzésére frissítések során",
+      "summary": "A nagy nyelvi modelleket (LLM) gyakran frissítik, és bár aggregáltan jobbak, egyedi esetekben regresszió léphet fel, ahol egy korábban helyes válasz hibássá válik. A kutatás azt vizsgálja, hogyan lehetne előre jelezni ezeket a regressziókat elérhető jelek alapján. Nincs univerzális jel, ami megbízhatóan előre jelezné a mintaszintű regressziót.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13607"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13607"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0a771636ea31",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Ügynöki tanulási rendszerek értékelése címkék nélkül",
+      "summary": "Az ügynöki \"folyamatos tanulási rendszerek\" (LLM-ek memóriával vagy lekérdezéssel kiegészítve) egyre értékesebbek a kiberbiztonságban, de értékelésük címkézett benchmarkokon keresztül gyakran sikertelen. Ez a tanulmány a skálázási hipotézist használja fel az ilyen rendszerek címkék nélküli értékelésére. A módszer lehetővé teszi a képességek mérését operatív biztonsági környezetben is.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13608"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7d1d109c08eb",
+      "category": "howto",
+      "time": "06:00",
+      "title": "SemPlan: Strukturált szemantikai tervezés benchmarkja vállalati adatokhoz",
+      "summary": "A vállalati adatokhoz készült természetes nyelvi interfészeknek a pontatlan kéréseket szabályozott, végrehajtható viselkedéssé kell alakítaniuk, miközben ellenőrzik az érvénytelen lekérdezéseket és a költségeket. A SemPlan Benchmark egy determinisztikus, szintetikus, kétnyelvű benchmarkot kínál 1800 esettel angol és brazil portugál nyelven. Ez a benchmark az architektúra tervezési terét értékeli.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13612"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0b460cc3a8a9",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Szepszis kezelés megfelelősége: Szakértő által irányított neuro-szimbolikus pipeline",
+      "summary": "A klinikai ellátás protokolloknak való megfelelésének ellenőrzése neuro-szimbolikus probléma, de a biztonságkritikus környezetben egyik paradigma sem elegendő önmagában. A kutatás egy szakértő által irányított pipeline-t mutat be, amely egy nagy nyelvi modellt (LLM) szigorúan a szemantikai normalizálásra korlátoz. Ez a rendszer a gyógyszer- és mikrobiológiai adatokat rögzített klinikai szókincsre képezi le.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13617"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "de3f4df39fd6",
+      "category": "szabalyozas",
+      "time": "06:00",
+      "title": "Algoritmus tervezés és orvosi felelősség",
+      "summary": "Egy klinikai algoritmus pontossága eltérő lehet a különböző betegcsoportok között, és az AI terjedésével nőtt az aggodalom az ilyen egyenlőtlenségek miatt. Az Egyesült Államokban bevezetett felelősségi szabály szerint az egészségügyi szolgáltatók felelősek, ha az algoritmusok használata hozzájárul az egyenlőtlen eredményekhez. Ez a tanulmány az algoritmus tervezés és az orvosi felelősség összefüggéseit vizsgálja.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13618"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c1b3c5b0b22c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Probabilisztikus JEPA és rejtett Markov modell kapcsolata",
+      "summary": "A rejtett Markov modell (HMM) három szerepet egyesít: rejtett állapot-hit előrejelzés megfigyelésekből, Markov átmeneteken keresztüli propagálás és visszaemisszió a megfigyelési térbe. A tanulmány kimutatja, hogy a teljes, időindexelt Predictive Information Bottleneck VJEPA (PIB-VJEPA) ugyanazt a számítási struktúrát mutatja. Egy sztochasztikus kontextus kódoló játssza a HMM szerepét.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13621"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e828bb66879c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "ARC: Méltányos relatív előny összehasonlítás nyílt végű interakciókban",
+      "summary": "A nyílt végű valós interakciók többféle érvényes viselkedést tesznek lehetővé, például közvetlen válaszadást, pontosítást vagy megerősítést. Ez a rugalmasság megtöri a csoportalapú megerősítéses tanulás (RL) alapfeltevését, miszerint a csoporton belül összehasonlított futások viselkedésileg összehasonlíthatók. Az ARC egy új keretrendszer a méltányos összehasonlításra.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13622"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13622"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d1d2483e0526",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Jutalomgépek jel-időbeli logikához",
+      "summary": "A jel-időbeli logika (STL) formális nyelvet biztosít valós idejű, valós értékű megfigyelések tulajdonságainak specifikálásához, valamint egy kvantitatív robusztussági pontszámot a megfelelés monitorozására. Az STL specifikációkból történő vezérlő szintézis egyre fontosabb, mivel a valós rendszerek komplexitása növekszik. A jutalomgépek alkalmazása segíthet a vezérlők tervezésében.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13625"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "80b6caae9ea6",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Belső akciótérképek kalibrált tesztje",
+      "summary": "Egy rejtett állapotjel dekódolható vagy kauzálisan felhasználható anélkül, hogy újrafelhasználható akciótérképet támogatna. A kutatás azt teszteli, hogy a forrás nélkül illesztett akciótérképek elérik-e a természetes akció utáni aktiválást és komponálódnak-e. A teszteket bizonyíték-rácsként szervezik, és a geometriai ágat egy ismert affin S_5 hordozón validálják.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13626"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13626"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c89426655e27",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Exploring ESC Winners with Nested Diagrams",
+      "summary": "arXiv:2608.13630v1 Announce Type: new Abstract: We present ConceptFlow, a scikit-learn-compatible Python library for Formal Concept Analysis that constructs and renders nested line diagrams from many-valued formal contexts. Given a many-valued context and a partition of its attri",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13630"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "53cde67d22b7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Ontology-Grounded Project Memory for Coding Agents",
+      "summary": "arXiv:2608.13662v1 Announce Type: new Abstract: Coding agents have become the primary means of generating new code in many software projects, and the resulting velocity of changes makes keeping track of the reasons behind those changes challenging. This paper introduces MOOSEDev,",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13662"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0ccc1664a79b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Second Thought: Reasoning in Parallel as LLM Agents Act and Observe",
+      "summary": "arXiv:2608.13667v1 Announce Type: new Abstract: LLM agents in the ReAct paradigm alternate between reasoning, acting, and observing, but deliberate reasoning is confined to the Thought phase: while the agent serializes an action and waits for the environment, its reasoning is fro",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13667"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7734cbb494d4",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints",
+      "summary": "arXiv:2608.13684v1 Announce Type: new Abstract: This paper describes a neurosymbolic architecture for learning to assemble novel structures using evidence from embodied conversations and task demonstrations. We focus on scenarios where an agent encounters, after deployment, seman",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13684"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "91a7bd440377",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Coverage Aware Active Evaluation for Failure Discovery with Paired Systems",
+      "summary": "arXiv:2608.13719v1 Announce Type: new Abstract: Autonomous systems can fail in rare and heterogeneous ways, making real-world failure discovery difficult under limited testing budgets. Although cheaper proxies such as simulators, lower-fidelity systems, or related policies can be",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13719"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "447d90062d8e",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation",
+      "summary": "arXiv:2608.13754v1 Announce Type: new Abstract: The EU AI Act requires providers of high-risk systems to file technical documentation describing how the system reaches its decisions. Mechanistic interpretability is the obvious source of such evidence, and circuit discovery is its",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13754"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c09c4817835a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Simulation-Aware In-Context Policy Improvement for LLM-Aided Analog Layout Refinement",
+      "summary": "arXiv:2608.13767v1 Announce Type: new Abstract: Analog IC layout design remains a labor-intensive iterative process dominated by simulation-driven refinement. Although end-to-end layout generators accelerate initial placement and routing, they still require experts to manually tu",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13767"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c469fe2dae28",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FLARE MCMC: Fidelity-based Layer-Adaptive REcursive proposals for MCMC",
+      "summary": "arXiv:2608.13774v1 Announce Type: new Abstract: Markov chain Monte Carlo (MCMC) requires only the ability to evaluate the likelihood, making it a common technique for inference in complex models. However, it can have a slow mixing rate, requiring the generation of many samples to",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13774"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "bcc77e799c74",
+      "category": "modell",
+      "time": "06:00",
+      "title": "From Passive Delegates to Strategic Negotiators: Reinforcing Social Reasoning in Small Language Models with SocialRL",
+      "summary": "arXiv:2608.13787v1 Announce Type: new Abstract: AI agents increasingly act on their users' behalf, handling tasks such as scheduling meetings, comparing offers, and haggling over prices. These principal-driven tasks routinely place the agent across from a counterpart (another use",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13787"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13787"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "4473bdbbae56",
+      "category": "modell",
+      "time": "06:00",
+      "title": "SDO: Subspace Deconflicting Operator for Multi-Adapter Composition",
+      "summary": "arXiv:2608.13820v1 Announce Type: new Abstract: Composing independently trained adapters within a shared diffusion backbone provides a modular approach to multi-character generation, but naive joint deployment often causes identity mixing, cross-character attribute leakage, and u",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13820"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "607926bf91a0",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Joint Optimization of Memory and Computing Frequency for Energy-Efficient DNN Inference",
+      "summary": "arXiv:2608.13863v1 Announce Type: new Abstract: Deep neural network (DNN) inference on mobile devices often incurs high latency and energy consumption due to limited computing and memory resources. To enable energy-efficient DNN inference, most existing studies focus on dynamic v",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13863"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1f410b5c4a38",
+      "category": "modell",
+      "time": "06:00",
+      "title": "MemoryLake on MemoryArena: A Matched Study of Agent Memory Backends",
+      "summary": "arXiv:2608.13883v1 Announce Type: new Abstract: Most agent-memory benchmarks test post-hoc recall, whereas MemoryArena evaluates whether memory supports interdependent, multi-session task completion. We compare MemoryLake, a structured multi-track memory backend, with Mem0, text-",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13883"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f207968d758b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "When Personal Memory Has No Single Answer: Evaluating LLM Agents under Irreducible Conflict",
+      "summary": "arXiv:2608.13921v1 Announce Type: new Abstract: LLM agents increasingly maintain personal memory across sessions, but it can conflict. Preferences depend on context, behavior evolves, and sources can conflict. When a query lacks context, time, or source authority to interpret con",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13921"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b8505840f8f9",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Never the Number: Structural Abstention for AI Systems Whose Answers Are Consumed as Fact",
+      "summary": "arXiv:2608.13926v1 Announce Type: new Abstract: Large language models have made natural language interfaces to databases (NLIDB) newly credible, but LLM text-to-SQL systems fail in a way that matters for deployment: a hallucinated column or a mis-aggregated total yields a fluent ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13926"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.13926"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "57f7f3b298d4",
+      "category": "modell",
+      "time": "06:00",
+      "title": "AI Research Preference Models",
+      "summary": "arXiv:2608.13940v1 Announce Type: new Abstract: AI research agents (AIRA) can now propose, implement, and evaluate their own machine learning experiments, but progress on frontier tasks is throttled by cost: a candidate solution can be written in minutes, whereas evaluating it ca",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13940"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "967313079f20",
+      "category": "modell",
+      "time": "06:00",
+      "title": "HELIX: Model-Harness Co-evolution for Recursive Self-Improvement",
+      "summary": "arXiv:2608.13951v1 Announce Type: new Abstract: Scaling agent capability has largely focused on improving the model, yet an interactive agent acts through a runtime harness that mediates context, tools, control flow, and stopping. The harness shapes both what a model can accompli",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13951"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "40237067829e",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Implementing Computational Law in Wolfram Language for the Governance of Artificial Intelligence",
+      "summary": "arXiv:2608.13958v1 Announce Type: new Abstract: How do we govern AI systems whose reasoning we cannot fully inspect? Governance does not require understanding a system's reasoning. It requires stating what the system is obliged, permitted, and forbidden to do, and checking whethe",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13958"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "663987798044",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead",
+      "summary": "arXiv:2608.13987v1 Announce Type: new Abstract: Nanbeige4.2-3B is a 3B-parameter agentic model built around a Looped Transformer (LT) that reuses one stack of layers for a second forward pass, adding effective depth without additional parameters. Evaluated on Apple Silicon (MPS),",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13987"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "70176d7e167d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy",
+      "summary": "arXiv:2608.13990v1 Announce Type: new Abstract: Driven by the attention economy, short-video Recommender Systems (RSs) are primarily optimized to maximize user engagement by promoting videos that capture attention within seconds. These systems inherently favor shallow-content vid",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13990"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d96f56d43528",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Simulation-Driven Vehicular Traffic Data Augmentation: Extending Sensor Coverage Through Virtual Sensing",
+      "summary": "arXiv:2608.13993v1 Announce Type: new Abstract: Urban traffic management relies on sensor networks whose spatial coverage is limited by deployment costs and privacy regulations. Machine learning models trained on such sparse data cannot generalize to unmonitored locations and mus",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.13993"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
