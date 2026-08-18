@@ -1,0 +1,653 @@
+{
+  "date": "2026-08-18",
+  "articles": [
+    {
+      "id": "45e60c4049a2",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment",
+      "summary": "arXiv:2608.14550v1 Announce Type: new Abstract: AI efficiency has recently taken the spotlight in both academy and industry due to massive model scales, high energy demands, and environmental costs. While reporting Floating Point Operations (FLOPs) is a traditional approach for a",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14550"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "4f474ab734b2",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Large Language Models Show Metacognitive Sensitivity in Medical Reasoning",
+      "summary": "arXiv:2608.14552v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly evaluated and used in medicine, but clinical usefulness depends on answer accuracy and whether confidence tracks evidence quality and uncertainty. We developed a controlled, psychophysic",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14552"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c01471aabd43",
+      "category": "modell",
+      "time": "06:00",
+      "title": "The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning",
+      "summary": "arXiv:2608.14558v1 Announce Type: new Abstract: Current multimodal models have demonstrated remarkable proficiency in recognizing static visual and auditory content. However, their capacity for abstract perceptual reasoning, inferring unseen information from dynamic, generative p",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14558"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "4727f23c3155",
+      "category": "modell",
+      "time": "06:00",
+      "title": "When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL",
+      "summary": "arXiv:2608.14559v1 Announce Type: new Abstract: Effective communication in multi-agent reinforcement learning requires agents to decide not only \\textit{what} to communicate, but when? Existing approaches either communicate at every timestep or learn a binary gate through REINFOR",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14559"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "183074b6eae2",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review",
+      "summary": "arXiv:2608.14562v1 Announce Type: new Abstract: AI governance is shifting from voluntary ethics to enforceable, risk-based regulation, yet cross-jurisdictional divergence creates compliance uncertainty for operators of high-stakes AI. We present a comparative matrix for the EU, U",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14562"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "aa964adaf76a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+      "summary": "arXiv:2608.14565v1 Announce Type: new Abstract: AI safety research has mainly focused on two areas: technical alignment (ensuring AI systems produce human-aligned outputs) and the regulation of generative AI's societal impacts (including unemployment risk and labor market disrupt",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14565"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "06849b142eb9",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Evaluations of AI Moral Reasoning Still Miss Half of the Picture",
+      "summary": "arXiv:2608.14566v1 Announce Type: new Abstract: Recent work on evaluating the moral competence of large language models (LLMs) has focused primarily on what we call the moral value problem, i.e., whether model outputs align with human moral values. In contrast, the moral norm pro",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14566"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e9ba7a9d6937",
+      "category": "modell",
+      "time": "06:00",
+      "title": "From Doyle to AGM: A Survey and an Implementation Roadmap for Belief Change",
+      "summary": "arXiv:2608.14567v1 Announce Type: new Abstract: This paper presents a targeted narrative review establishing the historical and theoretical foundations for computational belief change implementation. Seeded by Doyle and London's foundational 1980 taxonomy, we trace the evolution ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14567"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7fda28a6481a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: AI Governance Needs ISO-like Interoperability Protocols, Not Just Laws",
+      "summary": "arXiv:2608.14568v1 Announce Type: new Abstract: As Artificial Intelligence (AI) systems become deeply integrated into critical global infrastructure, the urgency for robust governance frameworks has intensified. However, current approaches, led by jurisdiction-specific laws, poli",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14568"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7c522df80b8b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Certified Correctness in Neural Constraint Reasoning Requires Symbolic Integration",
+      "summary": "arXiv:2608.14569v1 Announce Type: new Abstract: Neural solvers for constraint satisfaction problems have achieved remarkable in-distribution accuracy, yet they suffer from a fundamental limitation persistent constraint violations occur under distribution shifts even when the mode",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14569"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ec72259dcd41",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+      "summary": "arXiv:2608.14571v1 Announce Type: new Abstract: With soaring submission counts, stricter reciprocal review policies, widespread adoption of platforms like OpenReview, and without the offsetting pressure of publication fees, the machine learning (ML) community has one of the large",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14571"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1c3758cb2159",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+      "summary": "arXiv:2608.14578v1 Announce Type: new Abstract: Early identification of adolescent substance-use risk is an important prevention challenge, yet the relative value of baseline characteristics, longitudinal trajectories, and relational context remains unclear. Using data from appro",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14578"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "4e6a9879e1fe",
+      "category": "modell",
+      "time": "06:00",
+      "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+      "summary": "arXiv:2608.14579v1 Announce Type: new Abstract: Logic synthesis optimization poses significant challenges due to exponentially growing search spaces, sparse reward signals, and diverse logic structures. Traditional expert-designed flows lack adaptability, while reinforcement lear",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14579"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a49f91e4658b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+      "summary": "arXiv:2608.14580v1 Announce Type: new Abstract: OGX (Open GenAI Stack) is an open-source AI application server and Python library that implements the APIs of major frontier labs (OpenAI, Anthropic, Google) with pluggable backend providers. Developers building agentic AI applicati",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14580"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e6da036cc3fa",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Euclid-Omni : A Unified Neuro-Symbolic Framework for Plane Geometry",
+      "summary": "arXiv:2608.14585v1 Announce Type: new Abstract: Euclidean geometry is a compelling testbed for AI reasoning, as it demands the combination of intuitive diagram understanding, axiomatic deduction, and algebraic computation. Yet, existing approaches typically address only a subset ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14585"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "472271601c99",
+      "category": "modell",
+      "time": "06:00",
+      "title": "An Agentic Framework Using Rules and LLMs for Embedding and Annotating Descriptive Document Layouts: A Plant Science Use Case",
+      "summary": "arXiv:2608.14587v1 Announce Type: new Abstract: Background: Recent advances in information retrieval (IR) leverage both dense and sparse representations, large language models (LLMs), and specialized retrieval models to improve ranking accuracy, relevance, and cross-lingual perfo",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14587"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a04d921f61a6",
+      "category": "modell",
+      "time": "06:00",
+      "title": "The Hallucination Snowball: Modeling Error Propagation as State Transitions in Multi-Agent LLM Pipelines",
+      "summary": "arXiv:2608.14588v1 Announce Type: new Abstract: Sequential multi-agent LLM pipelines chain specialized agents without verification at handoffs, creating a structural flaw with measurable and severe consequences. We show that hallucinations injected at Stage 1 do not merely persis",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14588"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.14588"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6e659398548c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+      "summary": "arXiv:2608.14590v1 Announce Type: new Abstract: LLM agents increasingly perform irreversible real-world actions, including database updates, API calls, file operations, and autonomous use of tools. However, no existing system provides formally grounded, task-level safety guarante",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14590"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "4e1b9044c38a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Medical AI Neglects Real Treatment Outcomes",
+      "summary": "arXiv:2608.14598v1 Announce Type: new Abstract: Medical AI has rapidly improved its ability to perform diagnostic and prognostic tasks that lead to treatment decisions. But understanding of treatment itself is still inadequately trained and evaluated, using human opinions and syn",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14598"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c61b9e0b73c3",
+      "category": "modell",
+      "time": "06:00",
+      "title": "When Do LLMs Apply the Wrong Law? Diagnosing LLM Failures in Temporal Legal Reasoning",
+      "summary": "arXiv:2608.14610v1 Announce Type: new Abstract: Legal reasoning tasks such as legal judgment prediction (LJP) require identifying the temporally correct version of the law governing a case -- a capability we term temporal applicable-law determination. However, whether large langu",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14610"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c21f8ce35fd9",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Do LLM Agents Negotiate Rationally? A Mechanism-Design Framework for Verifiable Multi-Agent Interaction over A2A/MCP",
+      "summary": "arXiv:2608.14613v1 Announce Type: new Abstract: Modern LLM-agent frameworks increasingly interoperate through standards such as Anthropic's Model Context Protocol (MCP) for agent-to-tool access and Google's Agent2Agent (A2A) protocol for agent delegation and negotiation. However,",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14613"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "32847ac756fc",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Large Language Models and their Awareness of Mechanics and Spatial Geometry",
+      "summary": "arXiv:2608.14615v1 Announce Type: new Abstract: Large Language Models (LLMs) perform well on established code-generation and mathematical-reasoning benchmarks, but their capabilities in mechanics and spatial geometry, here denoted as mechanical engineering awareness, has not been",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14615"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7870ad7dba25",
+      "category": "modell",
+      "time": "06:00",
+      "title": "A Human-Centred Approach to Benchmarking LLMs for Parenting Advice",
+      "summary": "arXiv:2608.14622v1 Announce Type: new Abstract: People are increasingly using large language models (LLMs) to seek advice, including for parenting. Parenting is a critical and socially sensitive domain. Thus, evaluating advice provided by LLMs requires indicators beyond aggregate",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14622"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "5aec45c4bd57",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Learning Agent Execution for KV-Cache Management in Agentic Serving",
+      "summary": "arXiv:2608.14624v1 Announce Type: new Abstract: Multi-agent LLM systems have emerged as an important deployment paradigm for AI services, where each user request is decomposed into a sequence of specialized agents. Across these workflows, every agent repeatedly executes a fixed c",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14624"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "2157745e4074",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Accuracy and Reliability of Large Language Models in Cosmetic Chemistry and Skin Health: A Benchmarking Study",
+      "summary": "arXiv:2608.14631v1 Announce Type: new Abstract: As consumers increasingly turn to AI chatbots for skincare advice, the technical accuracy of Large Language Models (LLMs) in cosmetic chemistry remains largely under-evaluated. We benchmarked 14 LLMs on a structured set of topics re",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14631"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e10bc4938844",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Task- and Session-Level Model Routing: A Common-Interface Hybrid Evaluation of Four Open-Source Routers Across Four Benchmarks",
+      "summary": "arXiv:2608.14641v1 Announce Type: new Abstract: Agentic systems increasingly delegate model selection to a router, yet open-source routers are usually evaluated with different tasks, candidate pools, and execution protocols, limiting direct comparison. We present a common measure",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14641"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "9887d472d583",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Evaluating Multimodal LLMs across Text and Audio Modalities for Accessible Disaster Assistance",
+      "summary": "arXiv:2608.14651v1 Announce Type: new Abstract: Effective disaster risk communication is a foundational humanitarian challenge, yet current emergency infrastructure fails to meet the needs of individuals with access and functional needs, including hard-of-hearing individuals, pre",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14651"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0d9cbcdd4d2c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "When Uncertainty Isn't Enough: An Empirical Study of Self-Correction in Code Generation",
+      "summary": "arXiv:2608.14659v1 Announce Type: new Abstract: Large language models for code generation often produce incorrect solutions without reliable indicators of failure. We study whether uncertainty estimation methods developed for natural language transfer to code generation, and whet",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14659"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "16acc39f6de3",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Cross-Domain Industrial Fault Detection by Causal Mechanism Monitoring",
+      "summary": "arXiv:2608.14666v1 Announce Type: new Abstract: Unsupervised fault detection in industrial systems is dominated by reconstruction based methods that monitor individual sensor marginal distributions. This misses coupling faults, where the physical relationship between sensor group",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14666"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1f704de927fe",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: AI Agents in Scientific Teams Should Be Studied as Human-Agent Systems",
+      "summary": "arXiv:2608.14667v1 Announce Type: new Abstract: Large language model-based agents are increasingly deployed as collaborators in scientific discovery yet most current work focuses on the autonomous capabilities of \"AI Scientists\". We argue that this overlooks the social aspects of",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14667"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "11dcb9fdf91a",
+      "category": "howto",
+      "time": "06:00",
+      "title": "Automatizált újdonság-ellenőrzés matematikai AI-rendszerekben",
+      "summary": "A mesterséges intelligencia rendszerek a matematikában ellenőrzik a helyességet, de nem az újdonságot, ami azt jelenti, hogy egy automatikusan generált tétel már ismert eredmény lehet. Az AViD Journal egy új pipeline-t mutat be, amely LaTeX cikkeket formalizál Lean 4-ben, és újdonság-ítéletet ad ki, megoldva ezt a problémát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14669"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e8f67c5451e3",
+      "category": "modell",
+      "time": "06:00",
+      "title": "AI által generált matematikai bizonyítás auditálása és korrekciója",
+      "summary": "Ez a tanulmány az OpenAI „Tíz Fejlesztés a Matematikában és Elméleti Számítástechnikában” című művének egy AI által generált matematikai bizonyítását vizsgálja. Egy kvantum párhuzamos ismétlési tétel mohó kondicionálási lemmájában találtak hibát, amelyet kijavítanak, rávilágítva az AI-generált bizonyítások ellenőrzésének fontosságára.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14673"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b4bcb608647f",
+      "category": "howto",
+      "time": "06:00",
+      "title": "Futtatás közbeni hibák detektálása és lokalizálása ügynöki rendszerekben",
+      "summary": "Az LLM-alapú ügynöki rendszerek megbízhatósága a teljes futtatás tulajdonsága, nem csupán a végső válaszé. Az AGENTCHAOSBENCH egy új benchmark, amely telemetriai adatok alapján detektálja és lokalizálja a futásidejű hibákat, részletesebb betekintést nyújtva a hibák okába és módjába.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14680"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "465c161fd62b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Átfogó áttekintés a vezeték nélküli alapmodellekről 6G hálózatokhoz",
+      "summary": "Az alapmodellek átalakító paradigmát jelentenek az AI-natív hatodik generációs (6G) vezeték nélküli hálózatok számára, skálázható, átvihető és adat-hatékony intelligenciát biztosítva. A hagyományos mélytanulási modellektől eltérően a vezeték nélküli alapmodellek (WFM-ek) általános reprezentációkat tanulnak a különböző kommunikációs feladatokhoz.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14694"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6ef40b4e7284",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Szinkronizált logit-vezérlés: Valós idejű szteganográfia LLM-ekben",
+      "summary": "A nagyméretű nyelvi modellekben (LLM) a szteganográfia lehetővé teszi rejtett üzenetek beágyazását természetes hangzású szövegbe. A meglévő módszerek gyakran azonos prompt kontextust igényelnek, ami a valós rendszerekben ritkán garantált. A Synchronized Logit Steering egy új módszer, amely kiküszöböli ezt a korlátot, lehetővé téve a valós idejű szteganográfiát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14697"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "64b498ba5f88",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Szemantikai bizonytalanság-vezérelt koordináció hierarchikus multi-ügynök rendszerekben",
+      "summary": "Az LLM-alapú multi-ügynök rendszerek koordinálása bizonytalanság mellett alapvető kihívás. A meglévő stratégiák gyakran nem értékelik a köztes érvelési lépések megbízhatóságát, ami hibák terjedéséhez vezet. Ez a tanulmány egy új megközelítést javasol, amely szemantikai bizonytalanságot használ a koordináció irányítására, növelve a megbízhatóságot.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14707"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "9f0c1d0ebe09",
+      "category": "howto",
+      "time": "06:00",
+      "title": "A Pass@k-on túl: Ügynöki kódgenerálás megbízhatóságának és biztonságának mérése",
+      "summary": "Az AI kódgeneráló ügynökök benchmarkjai hibásan alkalmazzák a pass@k becslőt, összekeverve a tesztcsomag méretét a független próbálkozások számával, ami pontatlan rangsoroláshoz vezet. Ez a tanulmány diagnosztizálja ezt a hibát, bizonyítja annak hatását, és megbízhatóbb, biztonságosabb módszert javasol az ügynöki kódgenerálás értékelésére.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14711"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1a088d6f97ed",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Fejlett modellezés és adatelemzés a repülésben",
+      "summary": "A repülési iparágban, amelyet szigorú biztonsági előírások jellemeznek, egyre nagyobb az igény az innovatív megközelítésekre a biztonsági intézkedések fokozására. Ez a kutatás gépi tanulást és adatelemzést alkalmaz a repülésbiztonsági adatokra, hogy javítsa az incidensek előrejelzését és megelőzését, kihasználva a felhalmozott adatok teljes potenciálját.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14746"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e5d2fba18981",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Ügynöki adatkezelés tiszta referencia nélkül: Képességek és kompromisszumok",
+      "summary": "A tiszta referencia nélküli adatkezelés kihívást jelent, mivel a szokatlan értékek lehetnek hibák vagy érvényes megfigyelések. Ez a tanulmány azt vizsgálja, hogyan befolyásolják a különböző ügynöki képességek a referencia nélküli adatkezelést, és egy bizonyítékokon alapuló keretrendszert javasol a strukturált kontextus, profilozás, LLM érvelés és végrehajtható ellenőrzések kombinálásával.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14765"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "9b05d52a0d08",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Hibákból bizonyítások: Minimális mag-vezérelt javítás neuro-szimbolikus korlátmegoldáshoz",
+      "summary": "A nyelvi modellek gyakran megbízhatatlanul oldják meg a korlátproblémákat a formális specifikációba történő hűtlen fordítás miatt. A meglévő javítási pipeline-ok csak a fordítási hibákat kezelik. Ez a tanulmány egy minimális mag-vezérelt javítási módszert mutat be, amely azonosítja és kijavítja az LLM fordítása és a probléma eredeti szándéka közötti inkonzisztenciákat, javítva a neuro-szimbolikus korlátmegoldást.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.14771"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.14771"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
