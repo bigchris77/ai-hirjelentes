@@ -1,0 +1,661 @@
+{
+  "date": "2026-08-19",
+  "articles": [
+    {
+      "id": "d9c7f988f213",
+      "category": "termek",
+      "time": "06:25",
+      "title": "AI spanyol gyarmati feljegyzéseket elemez elsüllyedt hajók után kutatva",
+      "summary": "Egy AI-cég mesterséges intelligenciát használ 80 millió oldalnyi spanyol gyarmati feljegyzés elemzésére, hogy felfedezetlen hajóroncsokat és elveszett rakományokat találjon. A cég akár 500 000 dolláros fizetéssel toboroz \"kalózt\" a kincsek felkutatására.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-company-hiring-a-literal-pirate-to-salvage-sunken-treasure-found-by-artificial-intelligence-pays-up-to-usd500k-a-year-mining-80-million-pages-of-spanish-colonial-records-to-find-undiscovered-wrecks-and-lost-cargo"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1acb3406285f",
+      "category": "howto",
+      "time": "06:21",
+      "title": "4 bites híd az AI és az emberek között (Show HN: YOalphabet)",
+      "summary": "A YOalphabet egy \"4 bites híd\" az AI és az emberek között, amely egy új interfész vagy interakciós módszer lehet. A projekt a GitHubon érhető el, és célja az AI és az emberi kommunikáció közötti szakadék áthidalása.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://github.com/YOalphabet/YOalphabet"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "595568948c41",
+      "category": "termek",
+      "time": "06:08",
+      "title": "AI kreditek alkalmazásokhoz kötöttsége",
+      "summary": "Egy felhasználó problémát vet fel azzal kapcsolatban, hogy az AI kreditek gyakran egyedi alkalmazásokhoz vannak kötve, ami korlátozza azok rugalmas felhasználását. Példaként említi, hogy egy IDE-hez és egy deployment ügynökhöz is külön előfizetése van, és az egyiknél elfogyott a kredit, miközben a másiknál még volt.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://news.ycombinator.com/item?id=49356667"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "fc9f452012ac",
+      "category": "modell",
+      "time": "06:07",
+      "title": "Modellhipnózis: AI erős kontrollja szubliminális hatásokkal",
+      "summary": "Egy új kutatás, a \"Model Hypnosis\" bemutatja, hogyan lehet erős kontrollt gyakorolni az AI rendszerek felett additív, szubliminális hatások révén. Ez a módszer potenciálisan új utakat nyithat az AI viselkedésének befolyásolására, anélkül, hogy a felhasználó észrevenné.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://arxiv.org/abs/2608.16834"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0a00191352a2",
+      "category": "termek",
+      "time": "06:03",
+      "title": "PlugClaw: Privát AI ügynök hardver telefonokhoz és PC-khez",
+      "summary": "A PlugClaw egy bemutatott hardveres megoldás, amely privát AI ügynök funkcionalitást biztosít bármilyen telefon vagy PC számára. Ez a termék lehetővé teszi a felhasználók számára, hogy helyben futtassanak AI ügynököket, növelve az adatvédelmet és a biztonságot.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://plugos.net/plugclaw/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e0f06e61ebea",
+      "category": "modell",
+      "time": "06:01",
+      "title": "Matematika az AI korában",
+      "summary": "Egy új tanulmány, \"Mathematics in the Age of AI\" címmel, a mesterséges intelligencia hatását vizsgálja a matematika területére. A cikk valószínűleg az AI matematikai kutatásban, problémamegoldásban és oktatásban betöltött szerepét elemzi, valamint a jövőbeli kihívásokat és lehetőségeket.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://arxiv.org/abs/2608.16753"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "fa70457f7325",
+      "category": "modell",
+      "time": "06:00",
+      "title": "GxP-Agent: Megbízható klinikai vizsgálati programozás LLM ügynökökkel",
+      "summary": "A GxP-Agent egy új keretrendszer, amely a folyamat-DAG topológiát használja a klinikai vizsgálati programozás megbízhatóságának növelésére LLM ügynökökkel. A jelenlegi LLM-alapú kódgenerálás katasztrofálisan kudarcot vall a CDISC szabványok szerinti adatkészletek előállításában, a GxP-Agent célja ezen hiányosságok orvoslása.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.16890"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "8ec424e1286c",
+      "category": "szabalyozas",
+      "time": "06:00",
+      "title": "Futtatás közbeni irányítás ügynöki AI rendszerekhez",
+      "summary": "Az Aegis egy új futtatás közbeni irányítási rendszer ügynöki AI rendszerekhez, amely cselekvési határok kontrollját biztosítja megbízható eredetkövetéssel és \"fail-closed\" végrehajtással. Ez a rendszer a biztonsági problémát a káros szöveggenerálásról a káros működési mellékhatásokra helyezi át, és egy végrehajtási határt hoz létre a prompt-szintű irányítás felett.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.16891"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "905078c4a40c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "A gondolkodás ára: Érvelési erőfeszítés mint modellspecifikus API szerződés",
+      "summary": "A tanulmány az \"érvelési erőfeszítés\" fogalmát vizsgálja mint modellspecifikus API szerződési feltételt. Az API vásárlók egy dátumozott szerződést vásárolnak, amely tartalmazza a kért és szolgáltatott modellt, az érvelési erőfeszítés feltételét, a kimeneti korlátokat, a szolgáltatási terméket, a promptot és az árlistát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.16956"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.16956"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7d76fa4b30e5",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FedPref: Föderált preferencia tanulás strukturált radiológiai jelentések kinyeréséhez",
+      "summary": "A FedPref egy új módszer a föderált preferencia tanulásra, amely strukturált információkat nyer ki radiológiai jelentésekből. Célja, hogy megoldja azt a problémát, hogy a címkézett adatok egyenetlenül oszlanak el az intézmények között, lehetővé téve a modell tanulását anélkül, hogy az adatok központilag össze lennének vonva.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.16971"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "93e6bad5feea",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Skálázható matematikai felfedezés AI-val",
+      "summary": "A kutatás szerint az AI-rendszerek egyre inkább hozzájárulhatnak a matematikai kutatáshoz. A hatékony AI-asszisztált matematikai felfedezéshez kulcsfontosságú a korlátozott erőforrások (modell-érvelés, szakértői felülvizsgálat) optimális elosztása. A jelenlegi AI-alapú matematikai kutatások gyakran nem kezelik megfelelően ezt a problémát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.16977"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "2fd707a5a0bd",
+      "category": "howto",
+      "time": "06:00",
+      "title": "SkillEffect: Memória-korlátos ügynök eszközök ellenőrzött fordítása",
+      "summary": "A SkillEffect egy keretrendszer, amely ellenőrzi az ügynökök által generált programok memóriahasználatát, amikor nyelvi modellek eszközkövetelményeket alakítanak át konkrét kódokká. Ez segít megelőzni, hogy a szemantikailag helyes programok túllépjék az eszközhívások számára rendelkezésre álló memóriát.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17007"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b5d74fad905a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Memória és kommunikáció kapcsolata korlátozott ügynökökben",
+      "summary": "Egy korlátozott ügynök döntéshozatalhoz a múltjából, társaitól vagy mindkét forrásból szerezhet információt. A feladathoz releváns történet megőrzése csökkentheti a későbbi kommunikációt, míg egy társ üzenete pótolhatja a memória hiányosságait. A kutatás azt vizsgálja, hogyan ossza el egy ügynök az információs költségvetését, ha mindkét erőforrás korlátozott.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17053"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.17053"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "9235a80e10dd",
+      "category": "szabalyozas",
+      "time": "06:00",
+      "title": "DiSCO: Szövegből képet generáló modellek védelme káros tartalom ellen",
+      "summary": "A szövegből képet generáló modellek biztonsági aggályokat vetnek fel, különösen a nem biztonságos (NSFW) tartalom, például erőszak és meztelenség generálása miatt, amit a \"red-teaming\" támadások súlyosbítanak. A DiSCO egy új védelmi mechanizmus, amely elosztás-vezérelt kontrasztív prompt optimalizációt használ a káros tartalom generálásának megakadályozására.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17067"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "40d817d962fa",
+      "category": "howto",
+      "time": "06:00",
+      "title": "KernelArc: Multi-ügynök keretrendszer GPU kernel optimalizáláshoz",
+      "summary": "A KernelArc egy többügynökös keretrendszer az autonóm GPU kernel optimalizáláshoz heterogén terhelések esetén. Stratégia-specifikus ügynökök futnak párhuzamosan, és csak következtetéseket tartalmazó megosztott memórián keresztül koordinálnak. A keretrendszert NVIDIA H100 GPU-kon értékelték.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17071"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b185102980f9",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Rejtett állapot kiválasztás a többségi szavazás helyett LLM-ekben",
+      "summary": "A nagyméretű nyelvi modellek (LLM-ek) válaszainak kombinálása döntéshozatalhoz általában többségi szavazással történik. Ez a módszer megbízhatatlan nehéz kérdéseknél, ahol a mintavételezett válaszok korrelált hibákat tartalmaznak. A kutatás egy dekódolhatósági kritériumot mutat be, amely előrejelzi, mikor hatékonyabb a rejtett állapotok kiválasztása a többségi szavazásnál.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17124"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d467fbbd3398",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Személyes intelligencia kooperatív megfigyelésen keresztül",
+      "summary": "Egy személyes AI rendszernek szüksége van a felhasználó céljainak, korlátainak és folyamatos kötelezettségeinek modelljére a tervezéshez és cselekvéshez. A modell minőségét korlátozza a rendszer megfigyelési képessége. A kutatás szerint a szélesebb körű megfigyelés önmagában nem javítja a segítséget, ha a korlátozott rendszernek ki kell választania és tömörítenie kell az információt az adott feladathoz.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17128"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "73b3e51c3d0a",
+      "category": "howto",
+      "time": "06:00",
+      "title": "KnowSim: Információkalibráció értékelése LLM asszisztensekben",
+      "summary": "Az LLM-eknek információkalibrációt kell végezniük, hogy hatékonyan együttműködjenek a felhasználókkal tudásintenzív feladatokban, azaz a tartalmat a felhasználó változó megértéséhez és kognitív kapacitásához kell igazítaniuk. A KnowSim egy új felhasználói szimulátor, amely expliciten modellezi a felhasználói tudást, így valósághűbb interakciókat és pontosabb értékeléseket tesz lehetővé.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17150"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.17150"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "8b9424bebfc7",
+      "category": "howto",
+      "time": "06:00",
+      "title": "Jellemzőkivonók szintetizálása ügynöki megközelítéssel",
+      "summary": "A korlátkielégítési problémák algoritmusválasztásához olyan jellemzők kivonása szükséges, amelyek megragadják a probléma struktúráját. A jellemzőkivonók manuális tervezése mély doménszakértelmet igényel, és szűk keresztmetszetté válik új problémakörök megjelenésekor. A kutatás egy automatizált megközelítést mutat be, amely nagyméretű nyelvi modelleket (LLM-eket) használ egy ügynöki ellenőrzés-javítás-ellenőrzés ciklusban.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17170"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "760082458861",
+      "category": "szabalyozas",
+      "time": "06:00",
+      "title": "Kisebb nyelvi modellek biztonsági benchmarkjainak értékelése",
+      "summary": "A kisebb nyelvi modelleket (SLM-eket) egyre gyakrabban telepítik erőforrás-korlátozott, adatvédelmi szempontból érzékeny környezetekbe, ahol a biztonsági és torzítási hibák kockázatot jelenthetnek. A meglévő AI biztonsági benchmarkok nagyméretű nyelvi modellekhez készültek, és nem feltétlenül alkalmazhatók megbízhatóan az SLM-ekre. A kutatás azt vizsgálja, hogy ezek a benchmarkok mennyire megbízhatóak az SLM-ek értékelésében.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17183"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ff4e9200a58c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Fool's Gold: Defensive Deception Against Safety-Removal Attacks on Open-Weight Models",
+      "summary": "arXiv:2608.17202v1 Announce Type: new Abstract: Safety alignment in open-weight language models is trivially removable: abliteration projects a refusal-mediating direction out of the weights in minutes, and no release-time defense we are aware of prevents it durably. What cannot ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17202"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "68de9bb54f38",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification",
+      "summary": "arXiv:2608.17247v1 Announce Type: new Abstract: Personalized agents must decide whether retrieved user memory should be used, ignored, updated, or queried before it affects a current task. We use this setting to develop an empirical audit protocol for structured intermediate outp",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17247"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "973f01353095",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Do LLMs Know a Good Hypothesis When They See One? Logit-Based Energy Scoring Outperforms Prompted LLM-as-Judge for Scientific Hypothesis Ranking",
+      "summary": "arXiv:2608.17270v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for scientific hypothesis generation. However, evaluating generated hypotheses remains a challenge for trustworthy AI-enabled scientific workflows. Existing approaches often use LLM",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17270"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c11bbcba1e42",
+      "category": "modell",
+      "time": "06:00",
+      "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
+      "summary": "arXiv:2608.17271v1 Announce Type: new Abstract: Artificial superintelligence (ASI) requires AI to move beyond mastering existing knowledge toward exploring the unknown, creating new knowledge, and turning new ideas into verifiable results. However, the capabilities of today's AI ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17271"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "3d5833326e7c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "DeAR: Decentralized Agentic Reasoning via Capability Grounding and Collaborative Thought Navigation",
+      "summary": "arXiv:2608.17282v1 Announce Type: new Abstract: Existing agentic reasoning systems typically rely on centralized protocols. This design introduces routing bottlenecks and static role allocations that often fail when handling complex multimodal queries. We propose DeAR (Decentrali",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17282"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a8e886b38aef",
+      "category": "modell",
+      "time": "06:00",
+      "title": "PlanPO: Group Planning-Aware Policy Optimization for Multi-Turn Agentic LLMs",
+      "summary": "arXiv:2608.17289v1 Announce Type: new Abstract: Group-relative policy optimization has emerged as a key paradigm for training agentic large language models (LLMs) on multi-turn interactive tasks. However, most existing variants fail to distinguish advantages among successful traj",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17289"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "9dfbe71f9d03",
+      "category": "modell",
+      "time": "06:00",
+      "title": "LiveHouse-TS: An Open-world Living Benchmark for Time Series Foundation Models",
+      "summary": "arXiv:2608.17299v1 Announce Type: new Abstract: Time Series Foundation Models (TSFMs) have recently emerged as a highly promising paradigm for cross-domain zero-shot forecasting. However, existing evaluation protocols predominantly rely on static benchmarks with fixed historical ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17299"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "462fedd97a51",
+      "category": "modell",
+      "time": "06:00",
+      "title": "SignalReasoner: Assessing the Upper Bound of 3B Models for Signal Mathematical Reasoning",
+      "summary": "arXiv:2608.17301v1 Announce Type: new Abstract: Post-training with supervised chain-of-thought fine-tuning and reinforcement learning from verifiable rewards has substantially improved the mathematical reasoning capabilities of large language models (LLMs). However, their applica",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17301"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6252d871fd02",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Wuying-Browser-Agent: Real-World Centric Fundamental Long-Horizon Browser Agents",
+      "summary": "arXiv:2608.17319v1 Announce Type: new Abstract: Browser agents perform well on short, clean demonstrations, but real deployment is fundamentally different: agents must sustain dozens of decisions on live websites while recovering from mistakes and navigating complex UIs. We argue",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17319"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "542170eff0d6",
+      "category": "modell",
+      "time": "06:00",
+      "title": "LLMs for Medical Consultation Are Evaluated Too Late: The Preformulation Gap",
+      "summary": "arXiv:2608.17330v1 Announce Type: new Abstract: Large language models for medical consultation are often evaluated after a clinical problem has already been made clear, although real consultations may begin with a vague, minimized, or misframed concern. We evaluated three API mod",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17330"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.17330"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "34dcc7c9c7fe",
+      "category": "modell",
+      "time": "06:00",
+      "title": "TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration",
+      "summary": "arXiv:2608.17336v1 Announce Type: new Abstract: Long-context prefill in large language models (LLMs) incurs substantial computation and memory traffic because dense self-attention computes quadratic query-key scores. Existing methods either use a uniform low-precision path or sel",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17336"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "38ffecb3a91f",
+      "category": "modell",
+      "time": "06:00",
+      "title": "LLM-Only PDDL Domain Repair with Open-Weight Models",
+      "summary": "arXiv:2608.17341v1 Announce Type: new Abstract: AI planning is concerned with finding a sequence of actions that achieves a specified goal. It relies on explicit models of the world, commonly represented in the Planning Domain Definition Language (PDDL). An active line of researc",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17341"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "cb15194a6a6b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Cognitive Graph Intelligence for Adaptive and Robust DDoS Attack Detection in Next Generation Networks",
+      "summary": "arXiv:2608.17352v1 Announce Type: new Abstract: Distributed Denial-of-Service (DDoS) attacks threaten network availability, requiring a cognitive detection process that senses traffic, infers intent, and supports an adaptive response under severe class imbalance and non-stationar",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17352"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "bbee7fd6e24b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents",
+      "summary": "arXiv:2608.17393v1 Announce Type: new Abstract: Reinforcement learning for coding agents increasingly relies on long-running agent harnesses to manage tool integration, repository contexts, and execution feedback. However, the native execution environments of these harnesses are ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17393"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "22e268be3545",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Task-Aware Harness Provisioning for LLM Agents in Mission-Critical Infrastructure Operations",
+      "summary": "arXiv:2608.17433v1 Announce Type: new Abstract: LLM agents have been widely adopted to operate mission-critical infrastructure (MCI). These agents normally rely on a harness that determines what information they can access, which tools they can use, and what actions they can take",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17433"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1ed3cd30668f",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Depth Enables Local Entropy: Quadratic Depth Dependence in Deep Variation-Norm ReLU Regression",
+      "summary": "arXiv:2608.17434v1 Announce Type: new Abstract: We study Gaussian regression over the explicit vector-valued Parhi--Nowak deep-RBV^2 architecture with depth L, width w, layer-sum variation budget A, and output bound B. For this O(L w^2)-parameterized architecture, the known lower",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17434"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a1ae2e1f1b80",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Structure-Internalized Rule Language Model for Faithful Knowledge Graph Reasoning",
+      "summary": "arXiv:2608.17443v1 Announce Type: new Abstract: Knowledge Graph Reasoning (KGR) aims to discover latent facts by leveraging the structural evidence available in KGs, posing a challenge to the structural semantic understanding capability of KGR models. Recent studies have demonstr",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17443"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ee5750ac8647",
+      "category": "modell",
+      "time": "06:00",
+      "title": "SAGE: Self-Evolving Storyboard Skills via Attribution-Guided Rule Evolution",
+      "summary": "arXiv:2608.17468v1 Announce Type: new Abstract: Storyboards turn screenplays into visual shot plans for automated short drama production. Professional storyboarding relies on tacit directorial expertise and remains an industrial bottleneck. Large language models can automate this",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17468"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c719eb0fe855",
+      "category": "modell",
+      "time": "06:00",
+      "title": "When AI Designs AI: Innovation or Imitation?",
+      "summary": "arXiv:2608.17471v1 Announce Type: new Abstract: Recent advances in LLM agents have made them increasingly capable of designing methods for complex AI tasks. This raises two central questions about agent-designed methods relative to human-designed methods: how well they perform, a",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17471"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "cb88ef3d02e7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Towards Better Agents for Multi-Turn User Interaction: The Next User Turn Is More Than Context",
+      "summary": "arXiv:2608.17499v1 Announce Type: new Abstract: User-facing tool agents must coordinate dialogue and tool use as user goals unfold over multiple turns. Yet interactive reinforcement learning typically reduces each rollout to a terminal reward, assigning the same credit to effecti",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.17499"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
