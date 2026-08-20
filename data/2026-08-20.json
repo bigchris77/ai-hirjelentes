@@ -1,0 +1,661 @@
+{
+  "date": "2026-08-20",
+  "articles": [
+    {
+      "id": "e089793486ec",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
+      "summary": "arXiv:2608.18078v1 Announce Type: new Abstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect econo",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18078"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "882336789f13",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Profiling Game Worlds by Transition Complexity",
+      "summary": "arXiv:2608.18079v1 Announce Type: new Abstract: Game world modeling (GWM) and reinforcement learning (RL) are often confounded because research papers rarely quantify how difficult the underlying transition prediction problem is at the declared interface (pixels/tokens/latents wi",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18079"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "497d1ba976bd",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges",
+      "summary": "arXiv:2608.18080v1 Announce Type: new Abstract: We present a review on the applications of large language models (LLMs) in health, e.g., social media analysis, clinical conversational agents, therapy support tools, prompt engineering, multimodal learning, and ethical consideratio",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18080"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c7b6362810ca",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Behavioral Systems Require Behavioral Tests",
+      "summary": "arXiv:2608.18081v1 Announce Type: new Abstract: Artificial agentic systems increasingly operate as behavioral systems by interacting with dynamic environments, pursuing goals, and adapting over time. Yet, current evaluation methods largely focus on performance outcomes, not the u",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18081"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "fd0281edcb38",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+      "summary": "arXiv:2608.18086v1 Announce Type: new Abstract: The growth of open-weight foundation models (OWFMs) has prompted the AI community to re-evaluate strategies for effective downstream governance. Although model cards have been widely adopted as transparency artifacts in model reposi",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18086"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c9c884bc3262",
+      "category": "modell",
+      "time": "06:00",
+      "title": "A Metamorphic Artificial Age Score Decision-Support Prototype for Flight-Log-Based Drone Propeller Health Monitoring",
+      "summary": "arXiv:2608.18088v1 Announce Type: new Abstract: Drone propeller faults can create safety and reliability risks when their effects are distributed across multiple flight-log channels rather than appearing as a single diagnostic signal. This paper proposes a Metamorphic Artificial ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18088"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "141a7382e12d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: Multi-Agent Systems Should Prioritize Concurrency Control",
+      "summary": "arXiv:2608.18092v1 Announce Type: new Abstract: LLM-based multi-agent systems (MAS) promise scalable collaboration, yet adding agents often reduces reliability. This position paper argues that many MAS failures are fundamentally concurrency control problems: agents concurrently r",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18092"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "85af9cef9667",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FinSkillBench: Evaluating AI Agents and Domain Skills for Investment Management",
+      "summary": "arXiv:2608.18099v1 Announce Type: new Abstract: Investment management is a high-stakes domain in which agentic AI systems must do more than generate plausible text. They must retrieve point-in-time data, assemble correct computational inputs, invoke specialized methods, and produ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18099"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d971ce07b1ad",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Self-Evolving Agents as Dynamic Graph Transformation: A Survey and New Perspective",
+      "summary": "arXiv:2608.18104v1 Announce Type: new Abstract: Large language model (LLM)-based agents are increasingly becoming self-evolving systems that persist across interactions, maintain memories, use tools, acquire skills, refine workflows, and coordinate with other agents. These capabi",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18104"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0ed6fd04bad7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Emergence of Agentic AI: A Review on Evolution, Background, Working Principles, Applications, Adoption Factors, and Future Research Directions",
+      "summary": "arXiv:2608.18110v1 Announce Type: new Abstract: Agentic AI is gaining new insights and advancements in the field of Artificial Intelligence, fostering significant potential to enable rapid transformation across various domains.This rapid advancement and the potential to revolutio",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18110"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "98c3ec5cbef6",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Solving Is Not Drawing: A Benchmark for Diagrammatic Reasoning in Olympiad Geometry",
+      "summary": "arXiv:2608.18111v1 Announce Type: new Abstract: Foundation models such as GPT and Claude now solve olympiad-level mathematics with remarkable proficiency, so much so that geometry problem solving has become a standard proxy for their mathematical reasoning. Yet solving a geometry",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18111"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d6cfd8b921f7",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Position: AI Leaderboards Are Underserving the Global South: A Case Study from India",
+      "summary": "arXiv:2608.18117v1 Announce Type: new Abstract: This position paper argues that AI leaderboards are structurally ill-suited to serving the Global South because they lack independent governance, conflict-of-interest policies, and mechanisms for metric evolution. The barrier is not",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18117"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "2aed53d79134",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+      "summary": "arXiv:2608.18131v1 Announce Type: new Abstract: Current safety alignment training for Large Language Models (LLMs) are heavily English-centric. When such safety filters fail for non-English languages, the consequences are immediate and user-facing: voice assistants and spoken dia",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18131"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.18131"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c7a251d79721",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Optimized Fuzzy Logic Approach with the IEEE Key Gas Method for Diagnosing Power Transformer Faults Using Dissolved Gas Analysis",
+      "summary": "arXiv:2608.18133v1 Announce Type: new Abstract: Reliable transformer fault diagnosis is essential for maintaining power system stability. The IEEE Key Gas Method (KGM), a widely utilized approach in Dissolved Gas Analysis (DGA), exhibits limitations in addressing ambiguous data a",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18133"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "84c717c694b3",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Improving Rural Medication Safety with AI: A Scoping Review",
+      "summary": "arXiv:2608.18135v1 Announce Type: new Abstract: Introduction: Medication errors (MEs) represent a significant threat to global healthcare systems, contributing to patient harm. Introducing artificial intelligence (AI) in rural healthcare enhances patient safety. The aim is to exp",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18135"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "92bd481e757b",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud",
+      "summary": "arXiv:2608.18136v1 Announce Type: new Abstract: Conversational agents now act for end users through tools while holding access to customer databases and internal policy documents that a caller can reach through dialogue alone. Banking is the clearest case: the same agent that ans",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18136"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0481b36fc357",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Efficient Adaptation of LLMs for Hate Speech Detection in Low-Resource Languages: A Comparative Study on Roman Urdu",
+      "summary": "arXiv:2608.18142v1 Announce Type: new Abstract: It is challenging to detect hate speech in Low Resource Languages (LRLs) because of the absence of annotated data, the informality of its language structure, and the lack of standardized grammar. A good example of such a challenge i",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18142"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.18142"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "234668703120",
+      "category": "modell",
+      "time": "06:00",
+      "title": "RDFdL: Integrating RDF with Differential Dynamic Logic",
+      "summary": "arXiv:2608.18165v1 Announce Type: new Abstract: Knowledge graphs modeled in RDF are powerful for describing static knowledge, but they cannot capture or reason about the dynamic behavior of physical systems, e.g., systems described by differential equations, which is a critical g",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18165"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "a3d231dbc1f0",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Adversarial Review: Structured Disagreement for Grounded Agentic Code Review",
+      "summary": "arXiv:2608.18167v1 Announce Type: new Abstract: Early multi-agent LLM systems often used role-separated teams, yet scaling agent count yields diminishing returns on repository-level coding tasks. Recent alternatives treat agents as passive tools (subagents), yet this removes the ",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18167"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "082dc5a4d8fa",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Looped Language Models Improve Compositional Tool Calling",
+      "summary": "arXiv:2608.18171v1 Announce Type: new Abstract: Looped language models have shown promising results on reasoning benchmarks, yet their potential for agentic tool use remains largely unexplored. We study this question in compositional tool-calling settings, where models must coord",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18171"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "be4ca2172e41",
+      "category": "modell",
+      "time": "06:00",
+      "title": "On the Triangle Inequality for the Jaccard Distance in Arbitrary Lattices",
+      "summary": "arXiv:2608.18194v1 Announce Type: new Abstract: This paper presents new theoretical results on generalizing the Jaccard distance for lattices and real valuations. We demonstrate that when the valuation is strictly positive, monotone, and modular, the Jaccard distance satisfies th",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18194"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "665b9433e5e1",
+      "category": "modell",
+      "time": "06:00",
+      "title": "GenEx: A Graph-Based Representational Paradigm for SARS-CoV-2 Variant Detection via Codon Co-occurrence Networks",
+      "summary": "arXiv:2608.18238v1 Announce Type: new Abstract: Genomic analysis on viruses such as SARS-CoV-2 variants: Beta, Gamma, Delta, and Omicron is heavily dominated by classical bioinformatics methods, including Sequence Alignment, Phylogenetic Analysis, and Mutation Frequency Statistic",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18238"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f474acae38c9",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Redakto - The Incognito Tab for LLMs",
+      "summary": "arXiv:2608.18260v1 Announce Type: new Abstract: Large Language Models (LLMs) are being increasingly used in everyday applications. A major challenge in the context of LLMs or Artificial Intelligence (AI) in general is to ensure privacy when using them, meaning that personally ide",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18260"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.18260"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b608db5c390c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Cacheable by Design? Training Mixture-of-Experts Routers for Locality Against the Edge Memory-Bandwidth Wall: A Pre-Registered Negative Result with a Systems Measurement Study",
+      "summary": "arXiv:2608.18261v1 Announce Type: new Abstract: Serving a 235B-parameter Mixture-of-Experts (MoE) model on a single 8 GB GPU is bottlenecked not by compute but by memory bandwidth: decode must stream each token's active experts from whichever tier holds them, and on consumer hard",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18261"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "3743c6ba1ecd",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Evaluating Structured Information Extraction with Open Models in a High Risk Public Sector Application",
+      "summary": "arXiv:2608.18289v1 Announce Type: new Abstract: The extraction of structured information from unstructured documents represents a critical component of digital transformations in all sectors. While proprietary solutions dominate commercial applications, a rapidly growing ecosyste",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18289"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6656260be6b1",
+      "category": "modell",
+      "time": "06:00",
+      "title": "The Lifecycle of LLM-as-a-Judge for Large-Scale Recommendation Explanations",
+      "summary": "arXiv:2608.18300v1 Announce Type: new Abstract: LLM-as-a-Judge, which leverages a large language model to evaluate natural language generated by another AI application or model, has become a standard, scalable approach for accelerating and extending costly human evaluation. Howev",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18300"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "1faf6cd0503d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "SESSE: Sketch, Expand, Sort, Summarize, Evaluate -- LLM-as-Judge Evaluation via Structured Decomposition",
+      "summary": "arXiv:2608.18303v1 Announce Type: new Abstract: LLM-as-judge evaluation reduces response quality assessment to a single holistic A/B preference choice, providing no mechanism to isolate which quality dimensions drove the preference or distinguish model errors from genuine label a",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18303"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d2e18942fa6d",
+      "category": "modell",
+      "time": "06:00",
+      "title": "ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents",
+      "summary": "arXiv:2608.18307v1 Announce Type: new Abstract: Current evaluation of computer-use agents is split between long-horizon workflow benchmarks and atomic GUI-grounding tests. This leaves an under-instrumented middle layer: realistic component-centered interactions (e.g., toggle a bu",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18307"
+        },
+        {
+          "name": "arXiv cs.CL",
+          "url": "https://arxiv.org/abs/2608.18307"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "016d064c875c",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair",
+      "summary": "arXiv:2608.18324v1 Announce Type: new Abstract: Machine-verifiable workflows produce governance records linking a task contract, model attempt, verifier decision, accepted output, and target origin. We test whether these records can supervise bounded models, consolidating occasio",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18324"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0da8e9d4ae08",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Measuring the Partial-Credit Gap: A Strict Benchmark on Vietnam's 2025 Convex Marking Scheme",
+      "summary": "arXiv:2608.18336v1 Announce Type: new Abstract: When evaluating language models on human exams, benchmarks typically score each response as right or wrong and report the overall accuracy. This approach assumes that partial knowledge is worth proportional credit, an assumption tha",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18336"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c8f6a8badb1a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Kódügynökök robusztusságának értékelése szemantikailag ekvivalens átalakításokkal",
+      "summary": "A kutatás azt vizsgálja, hogy az AI kódügynökök mennyire megbízhatóak, ha a forráskód szemantikailag ekvivalens, de felületes változtatásokon esik át. Egy új módszert vezetnek be a kódügynökök megbízhatóságának mérésére, különösen a tárolószintű hibák javítása esetén.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18389"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b9f1283e8efd",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Strukturális kétértelműség felismerése viselhető stressz-osztályozásban",
+      "summary": "A viselhető eszközökkel történő stressz-osztályozás magas átlagos teljesítmény mellett is teljesen hibázhat egyes egyéneknél. Ezt a jelenséget strukturális kétértelműségnek nevezik, ahol az egyéni fiziológiai jelek közötti kapcsolat gyengülhet stressz esetén, rávilágítva a megbízhatóbb rendszerek szükségességére.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18397"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f36e71f17f45",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Kombinatorikus optimalizálás javítása erőforrás-korlátos nyelvi modellekben",
+      "summary": "A kombinatorikus ütemezési feladatok jelentős kihívást jelentenek a nyelvi modellek számára, különösen erőforrás-korlátos környezetben. A kutatás formális absztrakciók alkalmazásával javítja a nyelvi modellek pontosságát ezekben a feladatokban, ahol a nagyobb modellek nem praktikusak.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18409"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "2c36600b0a2a",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FM-Bench: Hosszú távú menedzsment benchmark versengő ügynökökkel",
+      "summary": "Az LLM ügynökök megbízhatóan hajtanak végre korlátozott feladatokat, de a hosszú távú, kumulatív következményekkel járó döntéshozó képességük még nem kellően mért. Az FM-Bench egy új benchmark, amely egy futballklub 20 szezonon át tartó menedzselésével méri az LLM ügynökök teljesítményét.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18423"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "98957f0e75af",
+      "category": "modell",
+      "time": "06:00",
+      "title": "UMER: Egységes beágyazás és rangsorolás multimodális lekérdezéshez",
+      "summary": "Az univerzális multimodális lekérdezés hatékony korpusz-szintű illesztést és finom szemantikai érvelést igényel. Az UMER egy új módszer, amely páralapú diszkriminatív érveléssel egyesíti a beágyazást és a rangsorolást, javítva a multimodális lekérdezési feladatok teljesítményét.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18504"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "cf3de43f7f1e",
+      "category": "modell",
+      "time": "06:00",
+      "title": "Adaptív hasonlósági margók sűrű feliratos lekérdezéshez",
+      "summary": "A sűrű feliratos lekérdezés (dense-caption retrieval) javult a kontrasztív finomhangolás révén, de az InfoNCE célfüggvény optimalizálása korán telítődhet. A kutatás adaptív hasonlósági margókat javasol a negatív minták kiválasztására, ami javítja a teljesítményt a sűrű feliratos adathalmazokon.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18521"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "75981fab4dc4",
+      "category": "howto",
+      "time": "06:00",
+      "title": "Páros rangsorolás az offline magyarázatválasztáshoz",
+      "summary": "Az LLM-alapú magyarázó ajánlórendszerek jelentős költségekkel járnak. A kutatás azt javasolja, hogy a magyarázatok generálását válasszák el a kiválasztástól, előre generált magyarázatokból választva. A páros rangsorolás jobb eredményeket mutatott, mint az egyedi akciójú megerősítő tanulás az offline magyarázatválasztásban.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18531"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "3a26c2182adf",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FinRCA-Bench: Pénzügyi AI rendszerek benchmarkja",
+      "summary": "A nagyméretű nyelvi modelleket egyre gyakrabban használják pénzügyi műveletek támogatására, de teljesítményük függ a megfelelő bizonyítékok elérhetőségétől. A FinRCA-Bench egy új benchmark, amely a pénzügyi egyeztetési feladatokhoz szükséges bizonyítékok lekérdezését és érvelését értékeli.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18534"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "29b5e913ea47",
+      "category": "termek",
+      "time": "06:00",
+      "title": "Keresés és CRM összekapcsolása AI termékkutató ügynökökkel",
+      "summary": "A modern e-kereskedelmi platformok gyakran különálló keresési, ajánlási és CRM rendszereket használnak, ami korlátozza az ügyfelek proaktív újraaktiválását. A kutatás AI termékkutató ügynökök bevezetését javasolja, amelyek összekapcsolják a keresést és a CRM-et, segítve az ügyfelek visszacsábítását.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18543"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "525e4117b8e6",
+      "category": "modell",
+      "time": "06:00",
+      "title": "FACET: Forrás szándék és végrehajtható állapot megőrzése terminál feladat szintézisben",
+      "summary": "A terminálügynökök képzéséhez skálázható, végrehajtható felügyelet szükséges, de a minőségi terminálfeladatok szintetizálása kihívást jelent. A FACET egy olyan módszer, amely biztosítja, hogy az utasítások, környezetek, referenciamegoldások és ellenőrzők konzisztensek legyenek, elkerülve a megoldhatatlan vagy helytelen feladatokat.",
+      "sources": [
+        {
+          "name": "arXiv cs.AI",
+          "url": "https://arxiv.org/abs/2608.18580"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
