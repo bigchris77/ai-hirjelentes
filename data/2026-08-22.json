@@ -1,0 +1,653 @@
+{
+  "date": "2026-08-22",
+  "articles": [
+    {
+      "id": "c302d2d33537",
+      "category": "termek",
+      "time": "06:33",
+      "title": "GPT 5.6 Sol: 20%-os árcsökkentés",
+      "summary": "Az OpenAI bejelentette a GPT 5.6 Sol modell API hozzáférésének 20%-os árcsökkentését. Ez az árkorrekció a fejlesztők számára kedvezőbbé teszi a modell használatát.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": "gpt52",
+      "contradiction": null
+    },
+    {
+      "id": "428d27ceeaaa",
+      "category": "howto",
+      "time": "05:45",
+      "title": "Személyes tapasztalatok az AI korszakában",
+      "summary": "Egy blogbejegyzés az AI-val való interakciók személyes és néha szokatlan aspektusait vizsgálja, rávilágítva a technológia mindennapi életre gyakorolt hatására.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.iankduncan.com/engineering/2026-08-07-getting-freaky-in-the-age-of-ai/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "d3591cb36413",
+      "category": "howto",
+      "time": "05:39",
+      "title": "Linus Torvalds AI segítségével hibakeresett",
+      "summary": "Linus Torvalds, a Linux kernel megalkotója egy commit üzenetben számolt be arról, hogy egy rendkívül nehéz hibakeresési folyamat során az AI jelentősen segítette munkáját. Ez rávilágít az AI potenciáljára a komplex szoftverfejlesztési feladatokban.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=818bebeb63dd6bf5f4e07e145f6cdbace520a34c"
+        }
+      ],
+      "sourceCount": 3,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "065ffcd23619",
+      "category": "szabalyozas",
+      "time": "05:33",
+      "title": "LLM hozzáférés kezelése éles adatbázisokhoz",
+      "summary": "A cikk arra figyelmeztet, hogy bár könnyű hozzáférést adni egy nagy nyelvi modellnek (LLM) egy éles adatbázishoz, a hozzáférés visszavonása és a biztonság garantálása sokkal nagyobb kihívást jelent. Ez kiemeli az adatbiztonsági kockázatokat az LLM-ek vállalati környezetben történő alkalmazásakor.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://deepsql.ai/blog/giving-an-llm-your-database-is-easy-taking-access-away-is-hard"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "087ae0ec5ec7",
+      "category": "termek",
+      "time": "05:20",
+      "title": "Startup alapítók küzdelme az AI ügynökökkel",
+      "summary": "A Wall Street Journal cikke szerint a startup alapítók egyre keményebben dolgoznak, hogy lépést tartsanak az általuk használt AI ügynökökkel. Ez a jelenség rávilágít az AI eszközök gyors fejlődésére és az emberi felügyelet növekvő igényére.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.wsj.com/tech/ai/ai-agents-startup-work-culture-fa10494d"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "16b49f08ef77",
+      "category": "termek",
+      "time": "04:12",
+      "title": "Anjadhe: Adatvédelmi fókuszú AI asszisztens macOS-re",
+      "summary": "Bemutatkozott az Anjadhe, egy macOS-re készült személyes AI asszisztens, amely a felhasználói adatvédelemre helyezi a hangsúlyt. A fejlesztő szerint az alkalmazás nem igényel fiókot és nem használ szerveroldali adatbázist, így a felhasználói adatok helyben maradnak.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.anjadhe.com/demo"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f655774091c9",
+      "category": "howto",
+      "time": "04:02",
+      "title": "Heimdall: Megbízható tudásréteg AI kódoló ügynököknek",
+      "summary": "Bemutatkozott a Heimdall, egy projekt, amely egy megbízhatóság-ellenőrzött tudásréteget biztosít AI kódoló ügynökök számára. Célja, hogy növelje az AI által generált kódok pontosságát és megbízhatóságát.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://github.com/ArihantDeva/heimdall"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "31752e89057a",
+      "category": "howto",
+      "time": "03:53",
+      "title": "Az AI-val való bölcs bánásmód fontossága",
+      "summary": "Egy blogbejegyzés az AI-val kapcsolatos túlzott megszállottság veszélyeire hívja fel a figyelmet, hangsúlyozva, hogy a technológia bölcs használata már az első prompt előtt elkezdődik. A cikk a megfontolt alkalmazás szükségességét emeli ki.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://unmeshed.io/blog/using-ai-wisely-starts-before-the-first-prompt"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7d959d8fb992",
+      "category": "szabalyozas",
+      "time": "03:47",
+      "title": "Aggodalmak az AI fejlődésének sebessége miatt",
+      "summary": "Az Atlantic cikke egy provokatív címmel fejezi ki az aggodalmat az AI technológia rendkívül gyors fejlődési üteme miatt. A szerző a sebesség okozta potenciális kockázatokra és a társadalmi hatásokra hívja fel a figyelmet.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.theatlantic.com/technology/2026/06/ai-cancer-progress/687654/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "bb93b6cf1c6a",
+      "category": "termek",
+      "time": "03:15",
+      "title": "GPT 5.6 Sol: 20%-os árcsökkentés",
+      "summary": "Az OpenAI közösségi fórumán jelentették be a GPT 5.6 Sol API, Codex kreditek és ChatGPT munkafolyamatok 20%-os árcsökkentését. Ez az intézkedés a modell hozzáférhetőségét javítja a fejlesztők és felhasználók számára.",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": "gpt52",
+      "contradiction": null
+    },
+    {
+      "id": "70d5c7b23f10",
+      "category": "howto",
+      "time": "03:09",
+      "title": "OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
+      "summary": "Article URL: https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/ Comments URL: https://news.ycombinator.com/item?id=49395638 Points: 25 # Comments: 2",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "c17bcef89fef",
+      "category": "howto",
+      "time": "03:00",
+      "title": "In 1957, Disney Built Our Friend the Atom. We Now Need Our Friend the AI",
+      "summary": "Article URL: https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a Comments URL: https://news.ycombinator.com/item?id=49395597 Points: 2 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://medium.com/@chipmunkworks/the-disney-solution-why-silicon-valley-needs-to-build-our-friend-the-ai-1a0ce3fc764a"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "20ae53e7b95a",
+      "category": "howto",
+      "time": "02:25",
+      "title": "Show HN: Updating my wedding registry website with AI in 275 commits",
+      "summary": "Article URL: https://benhoyt.com/writings/updating-gifty-with-ai/ Comments URL: https://news.ycombinator.com/item?id=49395371 Points: 1 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://benhoyt.com/writings/updating-gifty-with-ai/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "49a27937a360",
+      "category": "howto",
+      "time": "02:17",
+      "title": "Ox Alpha Is Performing SOTA and as Well as GPT-5.6 Sol in Multi-Agent Arena",
+      "summary": "Article URL: https://twitter.com/olam_labs/status/2090930116138582224 Comments URL: https://news.ycombinator.com/item?id=49395319 Points: 3 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://twitter.com/olam_labs/status/2090930116138582224"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "5c8319889e8e",
+      "category": "howto",
+      "time": "02:17",
+      "title": "Show HN: AI driven civic dashboard for Palo Alto",
+      "summary": "Article URL: https://paloaltocivic.com Comments URL: https://news.ycombinator.com/item?id=49395316 Points: 1 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://paloaltocivic.com"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "db58fd70cd52",
+      "category": "howto",
+      "time": "02:07",
+      "title": "Nvidia to Pay AI Startup Poolside a $6B License, Newcomer Says",
+      "summary": "Article URL: https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says Comments URL: https://news.ycombinator.com/item?id=49395252 Points: 5 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f70bca316c3b",
+      "category": "howto",
+      "time": "01:50",
+      "title": "What We Tell AI",
+      "summary": "Article URL: https://www.whatwetellai.com/ Comments URL: https://news.ycombinator.com/item?id=49395157 Points: 6 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.whatwetellai.com/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f141b3b9c86f",
+      "category": "howto",
+      "time": "01:49",
+      "title": "As demand for Meta AI glasses explodes, it's harder to avoid creepy recordings",
+      "summary": "Article URL: https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/ Comments URL: https://news.ycombinator.com/item?id=49395154 Points: 3 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
+        },
+        {
+          "name": "Ars Technica · AI",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "0356aeda7647",
+      "category": "howto",
+      "time": "01:20",
+      "title": "A Call for Action: The \"Leiden Declaration on AI and Math\"",
+      "summary": "Article URL: https://www.ams.org/journals/notices/202608/noti3386/noti3386.html Comments URL: https://news.ycombinator.com/item?id=49394934 Points: 9 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.ams.org/journals/notices/202608/noti3386/noti3386.html"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "5f11dca1c8a4",
+      "category": "howto",
+      "time": "01:10",
+      "title": "Replacing 223-node agent graph with a single OSS LLM",
+      "summary": "Article URL: https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm Comments URL: https://news.ycombinator.com/item?id=49394842 Points: 3 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.netic.ai/blog/replacing-node-agent-graph-with-open-source-llm"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "5a859cda5199",
+      "category": "termek",
+      "time": "01:07",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "sources": [
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "62477d9c31b3",
+      "category": "howto",
+      "time": "00:57",
+      "title": "AI Building Exoskeletons – Keeping Creative Inspiration",
+      "summary": "Article URL: https://johnoestmannmusic.com/ai-building-exoskeletons/ Comments URL: https://news.ycombinator.com/item?id=49394736 Points: 2 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://johnoestmannmusic.com/ai-building-exoskeletons/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "e4f6afd078cd",
+      "category": "termek",
+      "time": "00:37",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "sources": [
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "f4805b494c9b",
+      "category": "howto",
+      "time": "23:51",
+      "title": "80% of developers find AI coding more addictive than helpful",
+      "summary": "Article URL: https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/ Comments URL: https://news.ycombinator.com/item?id=49394186 Points: 7 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.zdnet.com/article/80-of-developers-find-ai-coding-more-addictive-than-helpful/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "016ca72fa4b5",
+      "category": "termek",
+      "time": "23:25",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible",
+      "sources": [
+        {
+          "name": "The Verge · AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "9c97e0748fa3",
+      "category": "howto",
+      "time": "23:24",
+      "title": "Amazon's 7.65GW AI data center power plant could be largest CO₂ emitter in US",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases Comments U",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazons-new-7-65gw-texas-ai-data-center-power-plant-could-become-the-largest-source-of-co2-pollution-in-the-us-custom-35-turbine-gas-plant-authorized-to-emit-33-million-tons-of-annual-greenhouse-gases"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "6df4ce907837",
+      "category": "howto",
+      "time": "22:52",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Article URL: https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/ Comments URL: https://news.ycombinator.com/item?id=49393647 Points: 13 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+        },
+        {
+          "name": "TechCrunch · AI",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/"
+        }
+      ],
+      "sourceCount": 2,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "8af58c93d640",
+      "category": "howto",
+      "time": "22:36",
+      "title": "Making Audio Stories Interactive with AI: The Story of Schmaudio",
+      "summary": "Article URL: http://www.dennisweyland.net/blog/?p=175 Comments URL: https://news.ycombinator.com/item?id=49393468 Points: 3 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "http://www.dennisweyland.net/blog/?p=175"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "61de033b62e1",
+      "category": "howto",
+      "time": "22:24",
+      "title": "Agentic AI overwhelmed CI, and test selection cut queueing from hours to minutes",
+      "summary": "Article URL: https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck Comments URL: https://news.ycombinator.com/item?id=49393364 Points: 1 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://humansystems.dudzik.co/p/when-agents-make-ci-the-bottleneck"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ccfa73203641",
+      "category": "howto",
+      "time": "22:21",
+      "title": "AgentCheck – regression testing for AI agents, with diff-aware CI reports",
+      "summary": "Article URL: https://github.com/rez-99/agentcheck Comments URL: https://news.ycombinator.com/item?id=49393322 Points: 2 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://github.com/rez-99/agentcheck"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "30357b9e33b6",
+      "category": "howto",
+      "time": "22:05",
+      "title": "AI Stock Research Assistant · Streamlit",
+      "summary": "Article URL: https://ai-stock-research-kiaan.streamlit.app Comments URL: https://news.ycombinator.com/item?id=49393176 Points: 2 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://ai-stock-research-kiaan.streamlit.app"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b08b3f0ac25f",
+      "category": "howto",
+      "time": "21:49",
+      "title": "The Wage Effects of Generative AI",
+      "summary": "Article URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084 Comments URL: https://news.ycombinator.com/item?id=49393015 Points: 1 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5842084"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "2d822dd0bcdd",
+      "category": "howto",
+      "time": "21:39",
+      "title": "OpenAI: We're dropping API and credit pricing of GPT-5.6 Sol by over 20%",
+      "summary": "Article URL: https://twitter.com/OpenAI/status/2090885187634905500 Comments URL: https://news.ycombinator.com/item?id=49392908 Points: 9 # Comments: 5",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://twitter.com/OpenAI/status/2090885187634905500"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "7612007008dc",
+      "category": "howto",
+      "time": "21:30",
+      "title": "Readers can't identify watermarked AI text",
+      "summary": "Article URL: https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/ Comments URL: https://news.ycombinator.com/item?id=49392819 Points: 10 # Comments: 1",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.seangoedecke.com/readers-cant-identify-watermarked-ai-text/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "85f9b32bf469",
+      "category": "howto",
+      "time": "21:22",
+      "title": "YC co is organizing an event in SF on AI in regulated industries",
+      "summary": "Article URL: https://groundtruth.getsphere.com/ Comments URL: https://news.ycombinator.com/item?id=49392723 Points: 3 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://groundtruth.getsphere.com/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "4cf2658c9dc4",
+      "category": "howto",
+      "time": "21:11",
+      "title": "War is not god, neither is AI",
+      "summary": "Article URL: https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/ Comments URL: https://news.ycombinator.com/item?id=49392610 Points: 2 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://ryelang.org/blog/posts/war-is-not-god-neither-is-ai/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "48841bd9ac40",
+      "category": "howto",
+      "time": "21:01",
+      "title": "I'm Sick of Reading AI-Written Posts",
+      "summary": "Article URL: https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf Comments URL: https://news.ycombinator.com/item?id=49392479 Points: 15 # Comments: 5",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://cyb3rops.medium.com/im-sick-of-reading-ai-written-posts-107767481fbf"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "ca1ab5844bf6",
+      "category": "howto",
+      "time": "20:44",
+      "title": "AI is about to uncover a hidden world of animal communication",
+      "summary": "Article URL: https://twitter.com/itsolelehmann/status/2090831992200020253 Comments URL: https://news.ycombinator.com/item?id=49392287 Points: 7 # Comments: 3",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://twitter.com/itsolelehmann/status/2090831992200020253"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "3cd622dc6cb1",
+      "category": "howto",
+      "time": "20:34",
+      "title": "The Better You Are at Programming, the Worse AI Looks",
+      "summary": "Article URL: https://www.youtube.com/watch?v=_590TxMwvWM Comments URL: https://news.ycombinator.com/item?id=49392177 Points: 6 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://www.youtube.com/watch?v=_590TxMwvWM"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    },
+    {
+      "id": "b5919a3b0d3c",
+      "category": "howto",
+      "time": "20:30",
+      "title": "The Death of the Job: How AI and Robots Will Rewrite Work in the Next 10 Years",
+      "summary": "Article URL: https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/ Comments URL: https://news.ycombinator.com/item?id=49392125 Points: 2 # Comments: 0",
+      "sources": [
+        {
+          "name": "Hacker News · AI",
+          "url": "https://simonroses.com/2026/08/the-death-of-the-job-how-ai-and-robots-will-rewrite-work-in-the-next-10-years/"
+        }
+      ],
+      "sourceCount": 1,
+      "threadId": null,
+      "contradiction": null
+    }
+  ]
+}
